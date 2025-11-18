@@ -279,7 +279,7 @@ Patricia handed Matt the printout. "Anything else I can do for you?"
 
 "Is there anyone else we should talk to? Other staff who knew Sarah?"
 
-"Amy Chen. She worked the same shifts as Sarah sometimes. They were friendly. She's here today—comes in at eleven."
+"Amy Klein. She worked the same shifts as Sarah sometimes. They were friendly. She's here today—comes in at eleven."
 
 Brandon was still watching Kovacs. "Thank you, Mrs. Holcomb. We'll wait for Amy."
 
@@ -333,7 +333,7 @@ Matt stood beside Brandon. "What do you think?"
 
 A woman's voice behind them: "Can I help you find something?"
 
-They turned. A young Asian woman stood there, mid-twenties, wearing a library staff badge. Amy Chen.
+They turned. A young Asian woman stood there, mid-twenties, wearing a library staff badge. Amy Klein.
 
 "We're with the FBI," Matt said, showing his badge. "We'd like to ask you some questions about Sarah Carpenter."
 

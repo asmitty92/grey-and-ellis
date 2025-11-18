@@ -36,9 +36,9 @@ He stopped. Matt waited.
 
 Brandon turned from the window. “Yeah. I think it is.”
 
-They stood in silence for a moment. Then Matt checked his watch. “We should check in with Chen before we leave. Courtesy.”
+They stood in silence for a moment. Then Matt checked his watch. “We should check in with Lindsay before we leave. Courtesy.”
 
-They walked down the hallway to the corner office where Special Agent in Charge Robert Chen sat behind a desk covered with case files. He looked up when they knocked, waved them in.
+They walked down the hallway to the corner office where Special Agent in Charge Robert Lindsay sat behind a desk covered with case files. He looked up when they knocked, waved them in.
 
 “Ellis. Gray. Heard you closed the Carpenter case. Good work.”
 
@@ -48,7 +48,7 @@ They walked down the hallway to the corner office where Special Agent in Charge 
 
 “Solid. Recorded, witnessed, and voluntary. He waived counsel in writing. Defense will try to suppress it, but they won’t succeed.”
 
-Chen nodded. “Good. Your SAC at Quantico will be pleased. He called yesterday, said you two have been making a name for yourselves with these cold cases.” Chen pulled a file from his desk. “This is the formal commendation for the Carpenter case. Should process through in the next month or so.”
+Lindsay nodded. “Good. Your SAC at Quantico will be pleased. He called yesterday, said you two have been making a name for yourselves with these cold cases.” He pulled a file from his desk. “This is the formal commendation for the Carpenter case. Should process through in the next month or so.”
 
 “Appreciated,” Matt said.
 
@@ -56,11 +56,11 @@ Chen nodded. “Good. Your SAC at Quantico will be pleased. He called yesterday,
 
 “Next one,” Matt said. “Got a few cases in the queue we’re reviewing.”
 
-Chen stood and shook their hands. “Well, thanks for the assist on this. Parke County’s grateful, even if they’re still processing what happened. Let me know if you’re ever back in Indiana.”
+Lindsay stood and shook their hands. “Well, thanks for the assist on this. Parke County’s grateful, even if they’re still processing what happened. Let me know if you’re ever back in Indiana.”
 
 “Will do.”
 
-After they left Chen’s office, they walked back to the borrowed desk where Brandon had been working. His laptop sat closed, his few personal items already packed in his messenger bag.
+After they left Lindsay's office, they walked back to the borrowed desk where Brandon had been working. His laptop sat closed, his few personal items already packed in his messenger bag.
 
 Matt sat down and opened his own laptop, pulling up their case queue. A spreadsheet appeared—thirty-seven open cases, color-coded by priority and age. Red for urgent, yellow for active, blue for cold. Most were blue.
 

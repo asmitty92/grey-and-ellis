@@ -1,41 +1,21 @@
-# Prerequisites
-*.d
+# Build artifacts
+*.pdf
+*.docx
+*.epub
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# OS files
+.DS_Store
+Thumbs.db
 
-# Precompiled Headers
-*.gch
-*.pch
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
 
-# Linker files
-*.ilk
+# Personal notes (if you want to keep some things private)
+/meta/private-notes.md
 
-# Debugger Files
-*.pdb
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
-
-# debug information files
-*.dwo
+# Compiled manuscripts
+/books/*/compiled/

@@ -23,7 +23,7 @@ Brandon scrolled to the crime scene photos. Karen Whitmore had taken several wit
 
 "Rage?"
 
-"Doubtful. A professional wouldn't be angry uless the victim provoked him somehow. More likley it was certainty. Making sure the job was done." Brandon read through the wound descriptions. "No defensive wounds on the victim's hands. No signs of struggle. Toxicology was clean—no drugs, no alcohol, nothing that would impair his ability to fight back."
+"Doubtful. A professional wouldn't be angry unless the victim provoked him somehow. More likely it was certainty. Making sure the job was done." Brandon read through the wound descriptions. "No defensive wounds on the victim's hands. No signs of struggle. Toxicology was clean—no drugs, no alcohol, nothing that would impair his ability to fight back."
 
 "So Palmer either knew his attacker, or—"
 
@@ -71,8 +71,7 @@ Matt's hands tightened slightly on the wheel. "Three others?"
 
 "Probably. Which means Steven isn't his real name, the accent might be fake, and the limp is theater." Brandon closed that file. "But it also means he's done this before. Multiple times. Successfully."
 
-They drove in silence for a while. Brandon watched the landscape change as they crossed into Iowa. More farmland, more gray sky, the occasional town breaking up the monotony. Albert Lea gave way to Clear Lake, then Mason City, then smaller places whose names he didn't catch.
->NITPICK: Your geography on the drive is a bit of a mess. Here you have them crossing into Iowa and then driving through Iowa towns like Clear Lake and Mason City. Earlier. you have them 3 hours from Omaha which should put them closer to Des Moines already. Then, in a later paragraph, you mention them driving through Mason City again before crossing into Iowa.
+They drove in silence for a while. Brandon watched the landscape as they crossed into Iowa. The highway signs marked their progress: Mason City, then Clear Lake, each town a brief interruption in the endless farmland.
 
 "What's Morrison's take on all this?" Brandon asked.
 
@@ -88,9 +87,7 @@ Brandon opened the email app and found the message:
 
 "Good. We can build on that instead of starting from scratch."
 
-The highway stretched on. They passed through Mason City, then Northwood, then crossed into Iowa properly. The landscape didn't change much—still flat, still agricultural, still waiting for spring.
-
-Brandon pulled up Palmer's background file. Forty-two years old, married to Jennifer Palmer for eighteen years. No children. Both Palmers were partners with David Rodriguez in Palmer-Rodriguez Real Estate for the past decade. Successful business, consistent income, no debts beyond a mortgage that was nearly paid off.
+The highway stretched on through Fort Dodge, then Carroll. The landscape didn't change much—still flat, still agricultural, still waiting for spring. Brandon pulled up Palmer's background file. Forty-two years old, married to Jennifer Palmer for eighteen years. No children. Both Palmers were partners with David Rodriguez in Palmer-Rodriguez Real Estate for the past decade. Successful business, consistent income, no debts beyond a mortgage that was nearly paid off.
 
 Palmer had grown up in Omaha, graduated from Creighton University with a business degree, got his real estate license at twenty-four. He'd worked for a larger firm for six years before starting his own company with his wife and Rodriguez. Member of Omaha Chamber of Commerce, volunteered with Habitat for Humanity, played golf at Oak Hills Country Club.
 
@@ -110,7 +107,8 @@ Which meant the answer was buried deeper than paper.
 
 Matt nodded slowly. "We'll talk to her. Morrison can set it up."
 
-They drove through Fort Dodge, then Rockwell City, watching the mile markers count down. Brandon's mind kept circling back to the crime scene photos. Something about the staging bothered him beyond the obvious. The shower running, yes. The stolen jewelry, yes. But there    
+They drove through Denison, watching the mile markers count down. Brandon's mind kept circling back to the crime scene photos. Something about the staging bothered him beyond the obvious. The shower running, yes. The stolen jewelry, yes. But there was something else.
+
 He pulled up the photos again, studying them closely. Palmer lay on his back in the tub, arms at his sides, legs straight. Almost peaceful except for the blood and the wounds. The shower had been running long enough to fill the tub partway before the homeowner arrived, water mixing with blood, draining slowly.
 
 "The tub was plugged," Brandon said.
@@ -126,10 +124,6 @@ Matt glanced over. "What?"
 "Add it to the list of questions for Morrison." Matt checked the GPS. "We're about ninety minutes out. Should we stop for lunch or eat when we get there?"
 
 "Let's eat there. Morrison probably knows good places."
-
-They drove on through Carroll, then Denison, getting closer to Omaha with each passing mile. Brandon's mind was already at the crime scene, trying to understand what had happened in that bathroom. The planning, the execution, the staging. Every detail meant something. Even the ones that didn't seem to make sense.
-
-Especially those.
 
 By the time they reached the Omaha city limits, it was one-forty-five PM. Matt followed the GPS through downtown—older buildings mixed with new construction, the Missouri River visible to the east, the skyline modest but modern. Omaha had that Midwest city feel: functional, unpretentious, going about its business without trying to impress anyone.
 
@@ -165,10 +159,7 @@ They followed her to the elevator. Inside, Morrison pressed the button for the t
 
 "I wish it had gotten me somewhere." Morrison's voice was matter-of-fact, no self-pity. "I've worked homicides for eight years. This is the first one where I genuinely have no idea who did it or why."
 
-"That's why you called us," Brandon said.
-
-"That's why I called you."
->NITPICK: You've done this a few times in the prologue and chapter one where one character says something and another repeats it verbatim. Stylisitically, I think it's something that works-Aaron Sorkin uses it sometimes-but be careful not to overuse it. 
+"That's why we're here," Brandon said.
 
 The elevator opened on the third floor. Morrison led them down a hallway past cubicles and offices. The Homicide unit occupied the northeast corner—a bullpen of desks surrounded by filing cabinets and whiteboards covered with case notes.
 
@@ -186,7 +177,7 @@ Morrison handed them coffee and sat down at the head of the table. Matt and Bran
 
 She pulled over a folder and opened it. "Michael Palmer, forty-two, real estate agent. Married, no kids, successful business. On January ninth, he met a potential buyer at Oak View Mall at eleven-thirty AM. The buyer's name was Steven—no last name given. They drove to a property in West Omaha for a showing. The homeowner, Karen Whitmore, left at noon to give them space. When she returned at two-fifteen PM, she found Palmer's body in the upstairs bathroom."
 
-Morrison pulled out crime scene photos and spread them across the table. "Nineteen stab wounds, mostly to the torso. Medical examiner says the first three were fatal. The rest were—" she paused, searching for the right word, "—thorough. Time of death is estimated between twelve-fifteen and one-fifteen PM."
+Morrison pulled out crime scene photos and spread them across the table. "Nineteen stab wounds, mostly to the torso. Medical examiner says the first three were fatal. The rest were—" she paused, searching for the right word, "—thorough. Time of death is estimated between twelve-fifteen and one PM."
 
 "Narrow window," Matt said, making notes.
 
@@ -206,7 +197,7 @@ Morrison pulled out crime scene photos and spread them across the table. "Ninete
 
 "His barber?" Matt asked.
 
-"Yes," replied Morrison. "I know that seems an odd detail, but it was his last stop before going to the mall to pick up Steven."
+"Yes," Morrison replied. "I know that seems an odd detail, but it was his last stop before going to the mall to meet Steven."
 
 "What about his business?" Matt asked. "Any deals gone bad? Angry clients? Disputed commissions?"
 
@@ -217,9 +208,13 @@ Morrison pulled out crime scene photos and spread them across the table. "Ninete
 Morrison pulled over another folder. "White male, fifties, five-eleven, medium build. Dark coat, wool or similar. Walked with a pronounced limp, used a cane. Spoke with an East Coast accent—the Starbucks barista said it sounded like Boston or New York. Claimed to be relocating from Northern California."
 
 She spread out security camera stills from the mall. "This is him arriving at eleven-twenty AM. See how he keeps his face angled away from cameras? That's not accidental. He knows where the cameras are."
->IDEA: If he's not local how is he familiar with the camera locations at the mall. Maybe cased it ahead of time. View footage from say, three days prior to murder?
 
 Brandon studied the images. Steven's body language was relaxed, unhurried. The cane looked real enough—dark wood, silver handle, the kind of thing someone would actually use. But something about his posture suggested the limp might be exaggerated.
+
+"If he's not local, how does he know the camera positions?" Brandon asked.
+
+Morrison nodded. "Good question. We think he cased the mall ahead of time. We've requested footage from the days leading up to the murder—specifically when he would have purchased the burner phone. Haven't gotten to it yet, but it's on the list."
+>NITPICK: It's been three weeks and they haven't gotten this footage yet? I think a better approach is to have the idea that he cased the mall ahead of time be Ellis and Gray's idea rather than something the locals already thought of. Probably make it Ellis's idea. It seems like his type of investigative instinct. Also, why would they be looking at the mall "specifically when he would have purchased the burner phone" if it was bought at a Walmart in Council Bluffs?
 
 "The phone number he gave Palmer?" Matt asked.
 
@@ -229,20 +224,23 @@ Brandon studied the images. Steven's body language was relaxed, unhurried. The c
 
 "Lost him in the parking lot. Cameras don't cover that area well. We see him and Palmer walking toward the exit together, then nothing. Palmer's Lexus left the lot at eleven-forty-three AM, but we never see Steven arrive or depart in his own vehicle."
 
-"He might have parked off-site," Matt said. "Walked to the mall."
+"So Palmer drove them to the showing," Matt said.
 
-"That's our theory. We canvassed nearby businesses, checked their security cameras. Nothing."
+"Right. And here's where it gets interesting." Morrison pulled out another document. "Palmer's Lexus was found abandoned at Park View Shopping Center—it's about two miles from the crime scene. Keys in the ignition, wiped clean except for Palmer's prints."
 
-Brandon looked at the timeline on the whiteboard. Palmer and Steven left the mall at 11:43 AM. They arrived at the Whitmore property around noon. Whitmore left at 12:00 PM. Palmer was killed sometime between 12:15 and 1:15 PM. Whitmore returned at 2:15 PM and found the body.
+Brandon leaned forward. "Steven left the scene in Palmer's vehicle."
 
-"What about Palmer's vehicle?" Brandon asked.
+"That's our theory. He kills Palmer, takes his car keys, drives the Lexus to Oak Park Center. We think he must've had his own vehicle pre-positioned there. Probably arrived at the mall by cab earlier that morning."
 
-"Found abandoned at the Crossroads Shopping Center, about two miles from the crime scene. Wiped clean—no prints except Palmer's. The keys were in the ignition."
->IDEA: Steven left the scene in Palmer's vehicle. I think that Palmer drove Steven to the showing. Steven had planted his own vehicle at the Crossroads (need to rename this, same name as Crossroads Mini Mart from book 1) and took a cab to the mall.
+"Did you check cab companies?" Matt asked.
 
-"And his cell phone?"
+"Every one in Omaha. No record of a pickup near Park View that morning, and no driver remembers anyone matching Steven's description. But if he paid cash and didn't call from a traceable number, there'd be no record."
 
-"Found in a dumpster behind a restaurant downtown. Also wiped clean. Same with his wallet and keys—found separately, different locations, all downtown."
+"What about Palmer's cell phone and wallet?" Brandon asked.
+
+"Found separately. Phone in a dumpster behind a restaurant downtown. Wallet dumped in a different location. Both wiped clean. Steven was methodical about disposal—spread the evidence around to complicate recovery."
+
+Brandon looked at the timeline on the whiteboard. Palmer and Steven left the mall at 11:43 AM. They arrived at the Whitmore property around noon. Whitmore was already gone by that time. Palmer was killed sometime between 12:15 and 1:00 PM. Steven drove Palmer's Lexus to Park View Center, switched to his own vehicle, then spent time disposing of evidence before disappearing.
 
 "Steven was thorough," Matt said.
 
@@ -278,10 +276,9 @@ By the time they finished, it was almost five PM. Morrison gathered the files an
 
 "We're here to assist, not take over," Matt said. "This is still your case."
 
-"Appreciate that." Morrison checked her watch. "You probably want to get settled. There's a Hampton Inn about ten minutes from here. Most federal agents stay there when they're in town."
->QUESTION: Do federal agents come to town a lot?? Weird phrase to use. How about something about the department getting a discounted rate.
+"Appreciate that." Morrison checked her watch. "You probably want to get settled. There's a Hampton Inn about ten minutes from here. The department has a discount rate with them—I can have dispatch call ahead and set you up."
 
-"Sounds good."
+"That'd be great, thanks," Matt said.
 
 They walked back to the elevator together. In the lobby, Morrison shook their hands again.
 

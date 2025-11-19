@@ -213,10 +213,17 @@ Brandon studied the images. Steven's body language was relaxed, unhurried. The c
 
 "If he's not local, how does he know the camera positions?" Brandon asked.
 
-Morrison nodded. "Good question. We think he cased the mall ahead of time. We've requested footage from the days leading up to the murder—specifically when he would have purchased the burner phone. Haven't gotten to it yet, but it's on the list."
->NITPICK: It's been three weeks and they haven't gotten this footage yet? I think a better approach is to have the idea that he cased the mall ahead of time be Ellis and Gray's idea rather than something the locals already thought of. Probably make it Ellis's idea. It seems like his type of investigative instinct. Also, why would they be looking at the mall "specifically when he would have purchased the burner phone" if it was bought at a Walmart in Council Bluffs?
+Morrison paused, considering. "That's a good question. I hadn't thought about that."
 
-"The phone number he gave Palmer?" Matt asked.
+Matt looked up from his notes. "He would've had to case the location beforehand. Learn the camera coverage, plan his route through the mall. That takes time and multiple visits."
+
+"The footage archives," Morrison said, catching on. "We could review the days leading up to the murder. See if we can spot him doing reconnaissance."
+
+"Exactly," Matt said. "He'd need to look natural—not obviously casing cameras, but present enough times to map everything out. Someone matching his general description showing up multiple days before the murder would be worth flagging."
+
+Morrison made a note. "I'll pull footage starting from when the burner phone was purchased. Three days before. We can work backward from there."
+
+"What about the phone number he gave Palmer?" Matt asked.
 
 "Burner. Purchased with cash at a Walmart in Council Bluffs three days before the murder. Used only to contact Palmer. Disconnected the day after the murder."
 

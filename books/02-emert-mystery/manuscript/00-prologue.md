@@ -1,7 +1,7 @@
 # Prologue
-**Wednesday, January 9, 2013, 1:15 PM**
+**Wednesday, January 9, 2013, 2:15 PM**
 
-The house sat at the end of a cul-de-sac in West Omaha's newest development, surrounded by empty lots waiting for spring construction. Karen Whitmore pulled into the driveway and noticed the silver Lexus still parked near the garage. She checked her watch—1:17 PM. The showing should have ended over an hour ago.
+The house sat at the end of a cul-de-sac in West Omaha's newest development, surrounded by empty lots waiting for spring construction. Karen Whitmore pulled into the driveway and noticed the silver Lexus still parked near the garage. She checked her watch—2:17 PM. The showing should have ended over an hour ago.
 
 She'd left at noon to grab lunch and give the real estate agent time to show the property. Mike Palmer had been professional when they'd spoken that morning, asking permission to bring a serious buyer through. An investor from out of state, he'd said. Cash offer possible.
 

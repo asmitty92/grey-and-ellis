@@ -34,7 +34,9 @@
   
 - **Physical Details**:
   - Deep green eyes
-  - Carries a small switchblade (from academy days) - front-opening (OTF), uses thumb slide, snaps/clicks when opening
+  - Service Weapon: Glock 19
+  - Carries a small switchblade - front-opening (OTF), uses thumb slide, snaps/clicks when opening
+    - Guardian Tactical GTX-025, Microtech Hera (or Hera II mini), or similar
   - Often forgets to eat when working cases
   - Drinks coffee in mornings/late nights, Coke other times, water when thinking through complex problems
 
@@ -57,6 +59,8 @@
 - **Physical Details**:
   - Always well-pressed, professional appearance
   - Even early morning, looks "like an FBI recruitment poster"
+  - Service Weapon: Glock 19
+  - Carries a Leatherman (most likely Skeletool) and occasionally uses it at crime scenes
 
 ### Partnership Dynamic
 - Worked together for 3 years before Carpenter case

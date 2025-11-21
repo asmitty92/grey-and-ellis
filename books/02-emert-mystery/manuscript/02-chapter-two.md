@@ -7,12 +7,16 @@ Matt woke at six-thirty to his phone's alarm, the Hampton Inn room dark except f
 Now it was time to see where Michael Palmer had died.
 
 Matt showered, dressed in his usual field work clothes—dark pants, button-down shirt, tie, jacket that could conceal his weapon. He packed his notebook, camera, and evidence kit, though Morrison's team had already processed the scene thoroughly. Sometimes you found things on a second look. Sometimes you just needed to understand the space.
+>NITPICK: no ties and no jackets. These guys are not typical "suit and tie" feds. Casual slacks (Dockers-esque) with a button down shirt.
 
-He met Brandon in the lobby at seven-fifteen. Brandon looked tired but focused, carrying his messenger bag and a travel mug of coffee from the hotel's breakfast bar.
+He met Brandon in the lobby at seven-fifteen. Brandon looked tired but focused, carrying his messenger bag and a travel mug of coffee from the hotel's breakfast bar. They grabbed pastries from the continental breakfast—neither of them was particularly hungry, but experience had taught them to eat when they could. Crime scenes had a way of killing appetite.
 
-"Ready?" Matt asked.
+"How'd you sleep?" Matt asked as they walked to the car.
 
-"Yeah."
+"Couple hours." Brandon settled into the passenger seat. "You?"
+
+"About the same."
+>NITPICK: I think Matt sleeps better than Brandon on a case. How does he say he got 5 or 6 without sounding competitive or braggy?
 
 They drove through morning Omaha traffic, heading west toward the suburbs. The city had that early February look—snow piled gray along curbs, bare trees, the sky a flat winter white that promised nothing. Matt navigated using the GPS while Brandon studied crime scene photos on his laptop one more time.
 
@@ -22,13 +26,37 @@ They drove through morning Omaha traffic, heading west toward the suburbs. The c
 
 "It was there. Convenient."
 
-"Maybe. Or maybe it was deliberate. Use something from the house, leave nothing foreign behind." Brandon closed the laptop. "Steven was careful about what he brought and what he left."
+"Maybe. Or maybe it was deliberate. Use something from the house, leave nothing foreign behind." Brandon pulled up another photo showing the victim's position in the tub. "Look at how Palmer's arms are positioned. At his sides, not defensive. Not grasping or reaching. Like he was placed that way."
 
-They arrived at the Whitmore property at eight-forty-five. Morrison's unmarked sedan was already parked in the driveway beside a silver Honda—probably Karen Whitmore's car. The house sat at the end of a cul-de-sac, surrounded by empty lots waiting for spring construction. The nearest occupied house was three lots away.
+Matt glanced at the laptop screen. "Steven arranged him after death."
+
+"Right. But why? Just to fit in the tub? Or because it meant something?"
+
+"What would it mean?"
+
+Brandon shook his head. "I don't know. Maybe nothing. Maybe Steven just wanted him to look... peaceful? That doesn't fit with nineteen stab wounds, but the staging suggests some kind of intent beyond just disposal."
+
+They drove in silence for a few minutes, Matt thinking about the question. Professional killers didn't usually arrange bodies aesthetically. They eliminated targets and left. The staging here—the shower, the plugged drain, the careful positioning—suggested something beyond simple execution.
+
+"The other victims," Matt said. "The ones in ViCAP. Were they staged similarly?"
+
+Brandon pulled up his notes from yesterday's briefing. "Different methods, different staging. Kansas City victim was found in his car in a parking garage. Charlotte victim was in a vacant property, basement. Phoenix was in a storage unit. None of them had the elaborate bathroom staging."
+
+"So if it's the same killer, he adapts to the environment. Uses what's available."
+
+"Or each job is different. Different clients, different requirements." Brandon closed the laptop. "We're assuming this was a professional hit. But what if it wasn't? What if Steven is just someone who planned really carefully?"
+
+Matt considered that. "Morrison's investigation points to professional. The level of planning, the meticulous execution, no apparent connection to the victim. That doesn't fit a personal motive."
+
+"Unless the personal motive is buried deep. Something from Palmer's past that wouldn't show up in a three-week investigation."
+
+"Possible. We'll need to dig deeper into his background."
+
+They arrived at the Whitmore property at eight-forty-five. Morrison's unmarked sedan was already parked in the driveway beside a silver Honda—probably Karen Whitmore's car. The house sat at the end of a cul-de-sac, surrounded by empty lots waiting for spring construction. The nearest occupied house was three lots away, maybe two hundred yards. Far enough that screams wouldn't carry. Far enough that no one would notice a car leaving in the middle of the day.
 
 Perfect isolation for murder.
 
-Matt parked behind Morrison's car and killed the engine. For a moment, they both sat looking at the house. Two-story, modern craftsman style, beige siding with dark brown trim. Well-maintained landscaping, now dormant for winter. A house that should have been someone's home but instead had become a crime scene.
+Matt pulled in behind Morrison's car and killed the engine. For a moment, they both sat looking at the house. Two-story, modern craftsman style, beige siding with dark brown trim. Well-maintained landscaping, now dormant for winter. Large windows that would let in plenty of natural light. A house that should have been someone's home but instead had become a crime scene.
 
 "You okay?" Matt asked quietly.
 
@@ -36,119 +64,257 @@ Brandon nodded. "Yeah. Just... preparing."
 
 Matt understood. Whatever Brandon experienced at crime scenes—whether it was genuine psychic ability or exceptional subconscious processing—it took a toll. Brandon had described it once as "opening yourself to trauma." Standing where violence had happened and letting yourself feel it.
 
-They got out and walked to the front door. Morrison appeared before they could knock, holding the door open.
+They got out and walked to the front door. The cold bit through Matt's jacket, reminding him that February in Nebraska wasn't much different from February in Minnesota. Same gray sky, same frozen ground, same sense that spring was still too far away.
+
+Morrison appeared before they could knock, holding the door open.
 
 "Morning. Mrs. Whitmore is in the kitchen. I've explained you'll need to walk through the house and spend time upstairs."
 
 "How's she holding up?" Matt asked as they entered.
 
-"About as well as you'd expect. She's grateful we're still working the case, but being here is hard."
+"About as well as you'd expect. She's grateful we're still working the case, but being here is hard." Morrison closed the door behind them. "She's planning to sell as soon as possible, but the market for a house where someone was murdered isn't great."
 
 The foyer was exactly as it had appeared in photos—hardwood floors, modern chandelier, everything clean and staged like a model home. But knowing what had happened upstairs gave the space a different weight. Matt could see it in the way Morrison moved through the house, the way Brandon's eyes tracked every detail.
 
 Karen Whitmore stood in the kitchen, hands wrapped around a coffee mug. Late fifties, brown hair streaked with gray, wearing jeans and a heavy sweater. She looked like she hadn't slept well in three weeks.
 
-"Mrs. Whitmore, I'm Special Agent Matt Ellis, this is Special Agent Brandon Gray. Thank you for letting us access the property."
+"Mrs. Whitmore, I'm Special Agent Matt Ellis, this is Special Agent Brandon Gray. Thank you for letting us access your home."
+>NITPICK: replaced "the property" with "your home." The property felt too clinical
 
 She nodded. "Detective Morrison said you might be able to find something. That you've solved cases like this before."
 
 "We'll do everything we can," Matt said, keeping his voice professional but not making promises they might not keep.
 
-"I just want to sell this place and move on." She set down her mug, hands shaking slightly. "But no one wants to buy a house where someone was murdered. I'm trapped here with—" She stopped, composing herself. "I'm sorry. That's not important. You need to work."
+"I just want to sell this place and move on." She set down her mug, hands shaking slightly. "But no one wants to buy a house where someone was murdered. Even after the cleaners came, even after everything was scrubbed and sanitized—people know. Word got out. And now I'm trapped here with—" She stopped, composing herself. "I'm sorry. That's not important. You need to work."
 
 "It's important to you, and that's valid," Brandon said quietly. "We're sorry this happened in your home."
 
 Whitmore looked at him with something like gratitude. "Thank you. That means more than you might think." She picked up her keys. "I'll wait outside. I can't—I can't be in here while you look at the bathroom."
 
-"Of course," Morrison said.
+"Of course," Morrison said. "Take your time."
 
-They waited until Whitmore had left through the front door, her Honda pulling out of the driveway. Then Morrison turned to them.
+They waited until Whitmore had left through the front door, her Honda pulling out of the driveway and parking on the street. Then Morrison turned to them.
+>NITPICK: Why would she get in her car and park it on the street?
 
 "Where do you want to start?"
 
-"The bathroom," Brandon said. "But first, walk us through the approach. How did they get in?"
+"The approach," Matt said. "How Palmer and Steven entered. Their path through the house."
 
-Morrison led them through the house, recreating Palmer and Steven's movements. "Front door was unlocked when Whitmore left at noon—she was expecting them. They arrived around twelve-fifteen based on her timeline and the ME's estimate. Palmer would have let them in, walked Steven through the downstairs first. Standard showing procedure."
+Morrison led them through the foyer. "Front door was unlocked when Whitmore left at noon—she was expecting them. Palmer had called her the night before to confirm the showing time. He told her he had a serious buyer, possibly a cash offer, asked if she could give them privacy to walk through."
 
-Matt looked around the living room. "And Steven would have been evaluating the space. Looking for escape routes, camera positions, whether anyone could see in from outside."
+"Standard practice?" Brandon asked.
 
-"Exactly. From here, you can't see into neighboring houses. The lots on either side are empty." Morrison pointed toward the back. "The backyard has privacy fencing. Total isolation."
+"For this type of property, yes. High-end buyers often want to imagine themselves in the space without the owner hovering." Morrison walked into the living room. "Palmer and Steven arrived around twelve-fifteen based on Whitmore's timeline and the ME's estimate of death. Palmer would have let them in—he had access to the lockbox—and walked Steven through the downstairs first."
+>NITPICK: It doesn't have to be a high-end property. Standard practice for all real estate showings is for the buyer to not be there. This feels like filler dialogue that doesn't have a purpose.
 
-They moved upstairs. The master bedroom was spacious, well-appointed, with an attached bathroom visible through an open door. Morrison stopped at the threshold.
+Matt looked around the living room. Open floor plan, high ceilings, gas fireplace. Large windows overlooking the backyard. From this angle, he could see the privacy fence Whitmore had installed. "What can you see from here?"
+
+Morrison walked to the windows. "Nothing. The lots on either side are empty—no construction crews this time of year. The nearest occupied house is three lots down, and these windows don't face that direction. The backyard has the six-foot privacy fence. Total isolation."
+
+Matt made notes, sketching a rough floor plan. "Steven would have noticed that immediately. No witnesses, no surveillance, no one to hear anything."
+
+"But he would've already known," Brandon said. He was standing in the center of the room, looking around slowly. "He chose this property specifically. Probably researched multiple listings, looked for exactly this setup. Isolated location, construction development, minimal neighbors."
+
+"How would he find it?" Morrison asked.
+
+"Palmer-Rodriguez Real Estate website," Matt said. "All their listings are public. Photos, descriptions, locations. Steven could have spent days browsing, looking for the perfect setup."
+
+They moved through the rest of the first floor. Dining room, kitchen, half-bath, office space. Each room was professionally staged but lifeless—the peculiar emptiness of a house waiting to be lived in. Matt photographed everything, documenting angles and sight lines. Brandon moved more slowly, stopping occasionally to study details.
+
+"They spent time down here," Brandon said in the kitchen. "Palmer showing off features. Granite counters, stainless appliances, the pantry. Making conversation, building rapport. Steven playing the interested buyer."
+
+"How long?" Matt asked.
+
+Brandon was quiet, eyes unfocused. "Ten minutes, maybe? Enough to seem legitimate. Then Palmer suggested they go upstairs, see the master bedroom."
+>TWANG: Does Brandon's ability extend to being able to know all of their movements leading up to the murder? Seems too psychic-y. I don't like it. Revise this portion to make it more of Brandon's profiling guesswork.
+
+Morrison had been watching Brandon work with clear curiosity, but she didn't interrupt. Matt appreciated that—some local detectives got defensive or skeptical when Brandon did this. Morrison just observed and waited.
+
+They climbed the stairs. The second floor had four bedrooms, two full baths, and a laundry room. Palmer and Steven would have walked this hallway, Palmer probably talking about square footage and resale value while Steven calculated exactly where and when to strike.
+>NITPICK: If Steven is the meticulous planner we think he is, he would already know where to strike
+
+The master bedroom was at the end of the hall—largest room, attached bathroom, small balcony overlooking the backyard. Morrison stopped at the threshold.
 
 "This is where it happened."
 
-Matt stepped into the bathroom first. It was large—separate shower and soaking tub, double vanity, tile floor that looked expensive. Clean now, all evidence of blood and violence scrubbed away by professional cleaners. But the space itself told the story.
+Matt stepped inside first. The bedroom was spacious, with a king-sized area for a bed, walk-in closet, and the attached bathroom visible through an open door. The carpet was new—installed after the crime scene cleaners had finished. The walls had been repainted. But the layout, the bones of the room, those remained the same.
+>NITPICK: a "king-sized area for a bed"? That does that mean? The owner still lives in the house, why wouldn't her bed be here?
 
-"Palmer was standing here," Morrison said, positioning herself near the vanity. "Steven was behind him, probably to the left based on wound angles. The first stab hit the subclavian artery—quick, efficient, immediately incapacitating."
+"Where exactly?" Matt asked.
 
-Matt studied the floor, the walls, the angles. "Palmer wouldn't have had time to fight back. First wound drops him, the rest happen while he's already dying."
+Morrison walked to the bathroom doorway. "Based on blood spatter and the ME's analysis, Palmer was standing just inside the bathroom. Steven was behind him and to the left. The angle of the first wound suggests Steven was slightly taller or Palmer was already turning when the knife came up."
 
-"Correct. Eighteen more wounds, all to the torso. Then Steven drags or carries the body to the tub." Morrison pointed. "Washcloth from the vanity used to plug the drain. Shower turned on. Steven leaves Palmer there and walks out."
+Matt visualized it. Palmer walking into the bathroom, maybe commenting on the tile or the fixtures. Steven following, already reaching for the knife. One quick movement, precise and practiced. The subclavian artery severed before Palmer could react.
 
-Brandon had been standing in the doorway, not entering yet. Now he stepped inside, moving slowly, eyes unfocused in that way Matt had learned to recognize. Brandon was opening himself to whatever impressions the scene might give him.
+He stepped into the bathroom. It was large—separate shower and soaking tub, double vanity, tile floor that looked expensive. Clean now, all evidence of blood and violence scrubbed away by professional cleaners. But the space itself told the story.
+>TWANG: In earlier conversations, I believe we said the water Steven left running was the shower, but here the shower and tub are completely separate. So, if he left the shower running, it wouldn't fill the tub. What gives?
 
-Matt gave him space and focused on the physical evidence. The bathroom had two exits—the door to the bedroom, and a small window above the toilet that looked out over the backyard. Too small for escape, but Steven might have checked it anyway. Matt opened the window, looked out. No one could see in from this angle. No cameras, no witnesses.
+The bathroom had two entrances—the main door from the bedroom, and a second door leading to the walk-in closet. Matt checked both. "Was the closet door locked?"
 
-Perfect privacy for murder.
+"No. Open, like it is now."
 
-"The shower was running when Whitmore found him," Matt said. "How long had it been on?"
+"So Steven had two exit routes if needed. Probably checked that before making his move."
 
-"At least thirty to forty-five minutes based on the water temperature and amount in the tub," Morrison said. "The drain was plugged but not completely sealed—water was escaping slowly. If Steven had sealed it completely, the tub would have overflowed."
+Matt examined the vanity first. Double sinks, plenty of counter space, drawers underneath. He opened each drawer—empty now, but Morrison's report had documented what was there originally. Toiletries, cleaning supplies, spare toilet paper. And washcloths.
 
-"So he wanted water covering the body but not flooding the bathroom. Deliberate choice."
+"The washcloth he used to plug the drain," Matt said. "It came from here?"
+
+"Correct. Bottom drawer, right side. Stack of white washcloths, all matching."
+
+Matt photographed the drawer, then moved to the tub. Standard soaking tub, deep enough for a person to lie in comfortably. The drain was centered at the bottom, chrome finish. He crouched down, looking at it closely.
+
+"Morrison, the crime scene photos show the washcloth in place. Can you describe exactly how it was positioned?"
+
+Morrison pulled out her phone and found the relevant photo. "Pushed into the drain opening, not just covering it. Compressed so it would block water flow but not completely seal it. Forensics said water was escaping at maybe ten to fifteen percent of normal rate."
+
+"So Steven understood fluid dynamics. Knew he wanted the water level to rise but not overflow."
+>NITPICK: fluid dynamics? Really?
 
 "Looks that way."
 
-Matt photographed the bathroom from multiple angles, documenting what the crime scene photos might have missed. The sight lines, the space between tub and vanity, the distance from door to shower. Steven would have needed room to maneuver. To drag or carry a dying man to the tub. To stage everything just right.
+Matt stood and examined the shower. Standard design, glass door, rainfall showerhead plus a handheld sprayer. The controls were intuitive—anyone could figure them out. Steven had turned it to a moderate temperature, Morrison's report said. Not cold, which might have slowed blood flow. Not hot, which might have created too much steam. Just warm enough to look normal if anyone glanced in.
 
-Brandon had moved to stand beside the tub. His hand hovered over the porcelain edge but didn't touch it. His breathing had slowed, gone quiet. Matt knew this process took time.
+"He tested it," Brandon said from the doorway. "The temperature. Made sure it was right before leaving."
 
-Morrison watched Brandon with open curiosity. "Is he—"
+Matt looked at him. "You're sure?"
 
-"Just let him work," Matt said quietly.
+"No. But it makes sense. Steven was careful about every detail. He wouldn't just turn on the shower and hope."
 
-They waited. Matt continued his examination of the physical space while Brandon stood motionless beside the tub. Minutes passed. Morrison shifted her weight, uncomfortable with the silence but respecting it.
+Matt made a note. It was the kind of detail they couldn't prove but might become important later. He photographed the shower controls, the showerhead, the position of the drain relative to the tub.
 
-Finally, Brandon spoke. "He was confused."
+Brandon still hadn't entered the bathroom. He stood at the threshold, studying the space, preparing himself for whatever impressions might come. Matt gave him time and continued his methodical examination.
+>TWANG: Brandon's ability here is so location specific that he stops outside the bathroom to prepare but earlier he was able to use it downstairs to know exactly how long they dicked around touring the house.
 
-Matt looked up. "Palmer?"
+The bathroom window was above the toilet, small and high. Matt climbed carefully onto the toilet seat to check it. Locked from the inside, no signs of tampering. He looked out at the backyard—the privacy fence was clearly visible, blocking any view from neighboring properties.
 
-"Yes." Brandon's voice was distant, like he was describing something he was watching rather than remembering. "He didn't understand. Thought maybe there was some mistake. Some explanation. Even when Steven stabbed him, he was trying to make sense of it."
+"Steven would have checked this," Matt said. "Made sure no one could see in."
 
-"Did he know Steven?" Morrison asked.
+"Probably," Morrison agreed. "Though with the empty lots on either side, visibility wasn't much of a concern."
 
-"No. That's what confused him. He knew this was about a property showing. Knew they were here to look at the house. Then Steven was behind him and—" Brandon stopped, hand dropping to his side. "It happened fast. The first wound. Everything went dark around the edges. Palmer tried to stay conscious but he couldn't. By the time Steven moved him to the tub, he was already dying."
+Matt photographed the view from the window, then climbed down. He checked the bathroom door lock—standard privacy lock, the kind you could disengage from outside with a pin or screwdriver. Not that it mattered—Steven hadn't needed to lock anyone out.
 
-Matt made notes. "Did Palmer say anything? Try to speak?"
+"The timeline," Matt said. "Walk me through it again. Detailed as possible."
 
-"Maybe. I'm not sure. It's not clear." Brandon turned away from the tub, looking frustrated. "I can feel the confusion, the fear, but I can't see why. Palmer didn't know why this was happening to him."
+Morrison consulted her notebook. "Based on the ME's report and our reconstruction: Palmer and Steven enter the master bedroom approximately twelve-twenty PM. They spend a few minutes looking around—Palmer showing off the space, the attached bathroom, the balcony access. Then they move into the bathroom, probably between twelve-twenty-five and twelve-thirty."
 
-"Because he didn't know Steven," Morrison said.
+"Why the bathroom specifically?" Brandon asked.
 
-"Right. But more than that. He was confused about the whole situation. Like—" Brandon searched for words, "—like he thought this should be about something else. Does that make sense?"
+"We think Palmer was demonstrating the high-end fixtures. Or maybe Steven asked to see it. Either way, they end up in here." Morrison gestured to the space where she'd indicated Palmer was standing. "First wound comes between twelve-thirty and twelve-thirty-five. Subclavian artery severed. Palmer drops immediately, loses consciousness within thirty to forty-five seconds. Dead within two to three minutes."
+>NITPICK: I don't think a subclavian artery wound would cause someone to drop immediatly. I think in the 30-45 seconds before they lost consciousness, they'd have mostly full mobility
 
-Matt considered. "You're saying Palmer expected there to be a reason, but there wasn't one?"
+"Steven keeps stabbing," Matt said.
 
-"Or there was a reason Palmer didn't know about." Brandon looked around the bathroom one more time. "Steven knew exactly what he was doing. Palmer had no idea."
+"Correct. Eighteen more wounds, all to the torso. Takes maybe sixty to ninety seconds. Then Steven drags or carries Palmer to the tub, positions him, plugs the drain with the washcloth from the vanity, turns on the shower."
 
-Morrison pulled out her notebook. "That matches what we found. Palmer had no defensive wounds, no signs he fought back or tried to run. The attack came from behind without warning."
+"How long for that staging?" Matt asked.
 
-Matt photographed the tub, the drain, the showerhead. Everything Steven had touched, arranged, controlled. "How long would this staging take? From first wound to leaving the scene?"
+"We estimated three to five minutes. Palmer wasn't a large man—five-ten, one-seventy pounds—but moving dead weight takes time. Steven had to lift him into the tub, arrange his position, make sure the staging was right."
 
-"Medical examiner estimates Palmer was unconscious within thirty seconds, dead within two to three minutes," Morrison said. "Add time for moving the body, plugging the drain, turning on the shower, cleaning up—maybe ten minutes total?"
+Matt did the math. "So from first wound to leaving the scene, we're looking at approximately eight to ten minutes total."
 
-"And Steven walked out like nothing had happened," Matt said. "Down the stairs, out the front door, into Palmer's Lexus. Drove to Oak Park Center, switched vehicles, disappeared."
+"That's our estimate. Steven was out of here by twelve-forty-five at the latest, probably closer to twelve-forty."
+>NITPICK: How do you know. Time of death earlier was between 12:15 and 1pm. How can you be this precise about when he left
 
-Brandon was standing in the doorway now, looking back at the bathroom. "Steven's done this before. He knew exactly how long each step would take. How to move efficiently. What to touch and what to avoid."
+"And Whitmore didn't return until after two PM."
 
-"The other cases in ViCAP," Matt said. "Kansas City, Charlotte, Phoenix. Different methods but similar execution. Same level of planning."
+"Correct. Steven had plenty of time."
 
-Morrison nodded. "I've requested full files on those cases. Should have them early next week."
+Brandon finally stepped into the bathroom. The change in his demeanor was immediate—Matt had seen it dozens of times but it still made him uneasy. Brandon's breathing slowed, his posture shifted, his eyes went distant and unfocused. He was opening himself to whatever trauma remained in this space.
+>TWANG: This makes it feel a little too immediate and involuntary. In the prologue of book 1, he sat by the payphone for nearly an hour. I don't want him to spend an hour here, but he needs more time than an immediate shift. I'd rather see a scenario where he spends 10-15 minutes in the bathroom "re-constructing" after Matt and Morrison step out And again, the physical demeanor changes is too psychic-y.
 
-They spent another thirty minutes in the bathroom, then moved through the rest of the house. Brandon checked each room, looking for anything Steven might have touched or observed. Matt photographed sight lines, entrances, exits. Morrison pointed out details from the initial investigation—where they'd found fingerprints (only Palmer's and Whitmore's), where they'd collected trace evidence (minimal), what they'd eliminated.
+Matt and Morrison stepped back, giving him room. Morrison watched with obvious fascination, but to her credit, she didn't ask questions. Just observed.
 
-By the time they finished, it was nearly eleven AM. They walked out to find Karen Whitmore sitting in her Honda, engine running for heat. She got out when she saw them.
+Brandon moved slowly to where Morrison had indicated Palmer had been standing. He closed his eyes, hands loose at his sides, completely still except for the subtle rise and fall of his chest.
+
+Minutes passed. Matt continued his own examination of the physical space, keeping one eye on Brandon. He photographed the tile patterns, checking for any irregularities that might indicate replaced or repaired sections. He examined the grout lines, looking for trace evidence that might have been missed. He opened the cabinet under the sink, checking for—
+
+"He was confused," Brandon said quietly.
+
+Matt looked up. Brandon hadn't moved, still standing in the same spot with his eyes closed.
+
+"Palmer?" Matt asked.
+
+"Yes." Brandon's voice was distant, like he was describing something he was watching rather than feeling. "They were talking about the bathroom. Palmer was explaining features—the tile, the fixtures, the tub. Steven was asking questions. Normal conversation. Then—"
+
+He stopped, breath catching slightly.
+
+"Then what?" Morrison asked, her voice carefully neutral.
+
+"Then Steven was behind him and Palmer felt—" Brandon's hand moved to his left shoulder, roughly where the subclavian artery would be. "Pain. Sharp, immediate. Everything went wrong all at once. He didn't understand. Thought maybe he'd hurt himself somehow, bumped into something. Then he was falling and Steven was still there and—"
+
+Brandon opened his eyes, the spell breaking. He looked shaken, more than usual. Matt stepped closer.
+
+"You okay?"
+
+"Yeah. Just—it was sudden. Palmer had no warning at all. One second they're talking about tile choices, the next he's dying and he doesn't know why."
+
+Morrison made notes. "That matches the physical evidence. No defensive wounds, no signs Palmer fought back or tried to run."
+
+Brandon moved to the tub now, standing beside it. He didn't touch it, just looked at the empty space where Palmer had lain. "He was still conscious for a few seconds after the first wound. Confused, trying to understand. Then he saw Steven's face and he was even more confused because—"
+
+He paused, searching for words.
+
+"Because what?" Matt prompted gently.
+
+"Because there was no anger there. No emotion. Steven was just... working. Like this was a job. Palmer tried to ask why, but he couldn't speak. Everything was going dark. And his last thought was—" Brandon stopped, frustrated. "I can't get it clearly. Something about not understanding. About this not making sense."
+
+Matt made detailed notes. "Did Palmer recognize Steven? Had they met before?"
+
+"No. I don't think so. Palmer knew this was supposed to be a property showing. Knew Steven was a potential buyer. But nothing beyond that."
+
+"What about after the first wound? When Palmer saw Steven's face—did he recognize him then?"
+
+Brandon shook his head. "Just confusion. Like he was trying to figure out why a stranger was killing him. Why this was happening."
+
+Morrison leaned against the doorframe. "Most people would be confused about being murdered."
+
+"It's more than that," Brandon said. "Palmer wasn't just confused about dying. He was confused about the whole situation. Like he was trying to find context and there wasn't any. Does that make sense?"
+>TWANG: How does he reveal all of this information here, on the spot, without arousing Morrison's suspicions. She doesn't know about his ability and he's being very obvious.
+
+Matt thought about it. "You're saying Palmer was looking for a reason this made sense—an affair discovered, a deal gone bad, something—and there was nothing?"
+
+"Exactly. He kept trying to understand, and there was no answer. It just... didn't make sense to him at all."
+
+They stood in silence for a moment. The bathroom felt smaller now, weighted with the knowledge of what had happened here. Matt could almost see it—Palmer standing where Brandon stood now, having a professional conversation about tile and fixtures, then sudden violence and confusion and darkness.
+
+"What happened after Palmer lost consciousness?" Matt asked.
+
+"Steven waited," Brandon said. "Made sure Palmer was dead or close to it. Then he moved him to the tub." Brandon gestured to the porcelain basin. "Lifted him—not dragged, lifted. Positioned him carefully. Arms at his sides, legs straight. Like he wanted Palmer to look... peaceful isn't the right word, but organized. Controlled."
+
+"Then the staging," Morrison said.
+
+"Right. The washcloth to plug the drain. Steven pulled it from the vanity drawer, compressed it into the drain. Tested it—" Brandon mimicked pressing something, "—made sure water would drain slowly but not completely. Then the shower. Turned it on, adjusted the temperature, checked that everything was right."
+>NITPICK: How did Steven place and test the washcloth after he put Palmer in the tub?
+
+"How long did all that take?" Matt asked.
+
+Brandon considered. "Maybe five minutes. Steven wasn't rushed. He worked methodically. Made sure every detail was correct. Then he left."
+
+"Through the bedroom?" Morrison asked.
+
+"Yes. Back the way they came. Down the stairs, out the front door. Into Palmer's Lexus." Brandon turned away from the tub. "And Palmer was just lying here in the water, bleeding out, completely alone."
+
+The weight of it settled over them. Matt had worked dozens of homicides, but the isolation of this one struck him particularly hard. Palmer had died confused and afraid, killed by a stranger for reasons he couldn't begin to guess. And then he'd lain in that tub for over an hour before Karen Whitmore found him.
+
+"Anything else?" Matt asked Brandon. "Any other impressions?"
+>TWANG: Asking this in front of Morrison is a bit on the nose
+
+Brandon walked slowly around the bathroom, checking each corner, each surface. "Steven was calm the whole time. No fear, no excitement, no anger. Just... calm. Like he'd done this before and knew exactly how it would go."
+
+"Professional," Morrison said.
+
+"Very. But there's something—" Brandon stopped at the vanity, looking at his reflection in the mirror. "Palmer saw Steven's face in this mirror. Just for a second, before the first wound. There was something about Steven's appearance that Palmer noticed. Something distinctive."
+
+"The cane?" Matt suggested. "The limp?"
+
+"Maybe. Or maybe something else. I can't get it clearly." Brandon turned away from the mirror, frustration evident. "The impression is too scattered. Palmer's confusion is drowning out everything else."
+>TWANG: too psychic-y
+
+Matt made a note to follow up on that later. "Let's document the rest of the house, then we can discuss theories back at the station."
+
+They spent the next thirty minutes examining the rest of the second floor and the first floor again. Brandon checked each room, looking for any additional impressions. Matt photographed everything, creating a comprehensive record of the property's layout and sight lines. Morrison pointed out details from the original investigation—trace evidence locations, fingerprint locations, areas that had been luminol-tested for blood.
+
+By the time they finished, it was nearly eleven AM. They walked out to find Karen Whitmore sitting in her Honda, engine running for heat. She got out when she saw them, wrapping her coat tighter against the cold.
 
 "Did you find anything?" she asked, hope and resignation mixing in her voice.
 
@@ -162,42 +328,143 @@ She nodded, accepting that non-answer. "When you do, will you let me know? I jus
 
 "We will," Morrison said.
 
-They watched Whitmore drive away, then stood in the cold morning air looking at the house.
+They watched Whitmore drive away, then stood in the cold morning air looking at the house. Matt pulled out his notebook and started making a list of follow-up questions while Morrison checked her phone for messages.
+>NITPICK: Whitmore sat in her car this whole time just to drive away when they were done? Stupid
 
-"Impressions?" Morrison asked.
+"All right," Morrison said after a moment. "Impressions?"
+>QUESTION: Is she asking about their use of the term impressions to describe Brandon's work or starting a conversation about their thoughts on the case after viewing the crime scene? Using the term impressions like this is unclear, unless the vagueness is intentional allowing Brandon to change the subject away from his ability.
 
-Brandon was quiet for a moment. "Palmer's confusion bothers me. He didn't just not know Steven—he was confused about why any of this was happening. Like it didn't make sense to him at all."
+Brandon was quiet, staring at the house. "Palmer's confusion bothers me. He didn't just not know Steven—he was confused about why any of this was happening. Like it didn't make sense to him at all."
 
-"What if it wasn't supposed to happen to him?" Matt said slowly, the thought forming as he spoke. "What if Steven had the wrong target?"
+Matt had been thinking about that too. "What if it wasn't supposed to happen to him?"
 
 Morrison looked at him. "Mistaken identity?"
 
-"It's a theory. Would explain the lack of motive. Palmer was clean because he wasn't supposed to be the victim." Matt pulled out his notebook, flipping to a fresh page. "We should look at other real estate agents in the area. Similar age, appearance, name. Anyone who might fit Palmer's profile but had reasons to be targeted."
+"It's a theory." Matt flipped to a fresh page in his notebook. "Would explain the lack of motive. Palmer was clean because he wasn't supposed to be the victim. Steven got the wrong real estate agent."
 
-Brandon nodded slowly. "That could explain his confusion. He was trying to understand why someone would kill him, and there was no reason—because it wasn't supposed to be him."
+Brandon turned to face them. "That could explain his confusion. He was trying to understand why someone would kill him, and there was no reason—because it wasn't supposed to be him."
 
-Morrison looked skeptical but not dismissive. "It's possible. I can pull lists of agents working this area. Cross-reference with anyone who might have enemies, debts, dangerous associations."
+Morrison crossed her arms, thinking. "It's possible. Similar names, similar appearances, working in the same area—mistakes happen."
+>NITPICK: This sounds like we know that there is someone out there with similar name and appearance
 
-"Let's pursue it," Matt said. "Even if we're wrong, it's an angle worth exploring."
+"But would a professional make that kind of mistake?" Matt asked. "Someone as careful as Steven, someone who planned this meticulously—would he get the target wrong?"
 
-They drove back toward downtown, Morrison leading in her sedan, Matt and Brandon following. In the car, Matt replayed the scene in his head. The bathroom, the tub, the careful staging. Steven's methodical approach. Palmer's confusion.
+"Depends on how he got his information," Morrison said. "If someone hired him and gave him bad intel, if he researched online and mixed up profiles, if there were multiple agents with similar names—"
+
+"Michael Palmer," Brandon said. "Mike Palmer. Pretty common name."
+
+Matt made notes. "We need to pull lists of real estate agents in the Omaha area. Focus on similar names, similar demographics. Anyone who might match Palmer's profile."
+
+"What profile specifically?" Morrison asked.
+
+"Male, forties, real estate agent, working the Omaha market. Probably someone who does higher-end properties, since Steven posed as a serious buyer with cash." Matt looked at Morrison. "Can you pull that list?"
+
+"I can have it by this afternoon. Should I include agents from neighboring areas? Council Bluffs, Bellevue?"
+
+"Yes. Cast the net wide initially, then narrow it down."
+
+Brandon walked back toward their car. "We should also look at agents who've had problems. Lawsuits, complaints, angry clients, anything that might give someone a reason to want them dead."
+
+"That'll take longer," Morrison said. "Real estate board complaints, Better Business Bureau records, court filings. But I can get started on it."
+
+They drove back toward downtown, Morrison leading in her sedan. In the car, Matt replayed the scene in his head. The bathroom, the tub, the careful staging. Steven's methodical approach. Palmer's confusion.
 
 "What do you really think?" Brandon asked. "About the mistaken identity theory?"
 
-Matt was quiet for a moment. "I think we need to follow every lead. But I also think—" He paused. "I think if Steven is as professional as he seems, he wouldn't make that kind of mistake. Getting the wrong target doesn't fit with someone who plans this carefully."
+Matt was quiet for a moment, organizing his thoughts. "I think we need to follow every lead. The confusion you sensed from Palmer is significant—he genuinely didn't understand why this was happening. That suggests either he truly had no connection to his killer, or the connection is buried so deep we haven't found it yet."
 
-"So you don't believe it?"
+"But?"
 
-"I'm not sure yet. But we'll work the theory anyway. Sometimes you have to go down the wrong path to find the right one."
+"But I'm skeptical that someone as professional as Steven would make that kind of mistake. Getting the wrong target doesn't fit with someone who plans this carefully. The mall surveillance evasion, the isolated property, the meticulous staging—that's not someone who mixes up names."
 
-Brandon looked out the window at Omaha passing by. "Palmer's confusion was real. He genuinely didn't understand why this was happening to him."
+Brandon looked out the window at Omaha passing by. "Maybe the mistake wasn't Steven's. Maybe whoever hired him gave him bad information."
 
-"Then we find out why," Matt said. "Even if Palmer didn't know, someone did. Steven knew. And somewhere in Palmer's life, there's a connection we haven't found yet."
+"That's more plausible. If this was a contract killing, the client might have provided limited intel. 'Kill Mike Palmer, real estate agent in Omaha.' If there are multiple agents matching that description, Steven might have chosen the wrong one."
 
-They pulled into the police station parking lot behind Morrison. Inside, they'd start building their investigation—lists, interviews, backgrounds, financial records. The methodical work that solved cases when psychic impressions and crime scene visits weren't enough.
+"Or the right one, and Palmer's connection to whoever wanted him dead goes back further than we've looked."
 
-Matt grabbed his notebook and got out of the car. Brandon followed, both of them heading inside to begin the real work.
+Matt nodded. That was the fundamental question—was Palmer the intended target with a hidden motive, or the wrong target by mistake? Either way, they needed to map out all the possibilities.
 
-Somewhere in Omaha, Steven was going about his day. Maybe watching news coverage of the investigation. Maybe already planning his next job. But he'd left something behind—a pattern, a mistake, a connection.
+They pulled into the police station parking lot behind Morrison. Inside, they headed straight for the conference room they'd used yesterday. Morrison's case files still covered the table, but now Matt started organizing them differently—not by evidence type, but by potential theories.
+
+"All right," Morrison said, pulling out her laptop. "Let me start pulling real estate agent listings for the Omaha metro. What parameters do you want?"
+
+"Male, age thirty-five to fifty, licensed in the past fifteen years, currently active in Douglas, Sarpy, or Pottawattamie counties." Matt consulted his notes. "Prioritize those working west Omaha and the surrounding suburbs."
+
+Morrison typed, accessing databases. "That's going to be a decent-sized list. Maybe fifty to seventy-five agents?"
+
+"We'll narrow it down. Focus on names similar to Michael Palmer—variations on Mike, Michael, Mitch. Last names starting with P or similar sounds. Anyone who might be confused with our victim based on a quick online search."
+
+Brandon sat down and opened his laptop. "I'll cross-reference with ViCAP again. See if any of those agents pop up in connection with the other unsolved cases. Kansas City, Charlotte, Phoenix."
+>QUESTION: Why do this? If Steven is in fact a professional hitman, why would the victim in this case have anything to do with his previous assignments.
+
+They worked in focused silence for the next hour. Morrison pulled agent listings and printed them out, highlighting potentials. Brandon ran background checks and database searches. Matt organized everything into categories, looking for patterns.
+>NITPICK: What kind of database would give law enforcement unfettered access to details about real estate agents?
+
+By twelve-thirty, they had a preliminary list of seventeen agents who fit the basic profile. Morrison had pulled photos of each one, and now they spread them across the table alongside Palmer's photo.
+
+"Look for physical similarities," Matt said. "Height, build, general appearance."
+
+They studied the photos. Several agents could be Palmer's brothers—same age range, same general build, similar features. Others were distinct enough that mistaken identity seemed unlikely.
+
+"These five," Morrison said, pointing to photos. "They're all within an inch or two of Palmer's height, similar weight, similar appearance from a distance."
+
+Matt made notes on each one. "Michael Paxton, age forty-four, works for Remax Realty. Marcus Palmer—no relation—age forty-one, independent agent. Mitchell Preston, age forty-seven, works for Berkshire Hathaway. Martin Pellman, age forty-three, independent. Miles Peterson, age forty-six, works for Nebraska Realty."
+
+"Now we look for motive," Brandon said. "Which of these five might have given someone reason to hire a professional killer?"
+
+Morrison started pulling up backgrounds. "I'll need to run this through our databases, check for complaints, lawsuits, anything that might red-flag."
+
+"Do it," Matt said. "And let's set up interviews. Even if the mistaken identity theory is wrong, these agents work the same area as Palmer. They might have information about problem clients, threats, unusual situations."
+
+They spent another hour organizing their approach. Matt created a flowchart on the whiteboard, mapping out investigative paths. Morrison coordinated with her department, requesting additional database access and background checks. Brandon took notes, occasionally offering observations based on his impressions from the crime scene.
+
+By two PM, they had a solid plan. Morrison would run deep backgrounds on the five potential alternative targets. Matt would start setting up interviews for Monday. Brandon would review the ViCAP files in more detail, looking for any connection between Palmer and the other unsolved cases.
+>NITPICK: Again, why would Palmer be connected to other contract slayings in other cities?
+
+"We're moving forward," Matt said, looking at the whiteboard. "Even if we're wrong about mistaken identity, this process might reveal something about Palmer we didn't know before."
+NITPICK: That's a bit overly optimistic
+
+Morrison stood and stretched. "I'll have those backgrounds by Monday morning. Meanwhile, are you still planning to talk to Jennifer Palmer?"
+
+"Yes. Can you set that up?"
+
+"I'll call her this afternoon. She works from home on Fridays, so she might be available tomorrow if you want to move quickly."
+
+"Tomorrow works." Matt checked his watch. "Let's break for lunch, then reconvene around three. We can review what we have so far and plan next steps."
+
+They grabbed sandwiches from a deli two blocks away, eating while they walked and discussing the case. The February cold had intensified, wind cutting through the downtown streets. Matt was grateful when they got back inside the warm police station.
+>NITPICK: if they're picking up sandwiches and taking them back to the police station, why would they eat while walking. Why not just wait until they're back inside and sitting.
+
+The afternoon was spent in detailed review—going through Morrison's files again with fresh perspective, now that they'd seen the crime scene and developed working theories. Matt made extensive notes, creating timelines and connection maps. Brandon studied crime scene photos with new eyes, looking for details they might have missed initially.
+
+By five PM, Matt's notebook was full and his mind was churning with possibilities. They had theories but no proof, leads but no solid direction. The mistaken identity angle was promising but not definitive. Palmer's confusion suggested something, but exactly what remained unclear.
+
+"Let's call it a day," Matt said finally. "We'll hit this fresh tomorrow."
+
+Morrison walked them out, promising to have those backgrounds ready first thing Monday. In the car, Brandon was quiet, staring out at Omaha's downtown as they drove back to the hotel.
+
+"You did good work today," Matt said.
+
+"Palmer's confusion is bothering me. I keep thinking there's something more there, something I'm missing."
+
+"Sometimes impressions take time to clarify. Don't force it."
+
+They pulled into the Hampton Inn parking lot. The evening had that winter darkness, the sky going from gray to black without much transition. Matt killed the engine and they sat for a moment.
+
+"Mistaken identity," Brandon said. "Do you really think that's it?"
+
+Matt considered. "I think it's worth pursuing. But I also think the real answer might be more complicated than that. Palmer's confusion could mean mistaken identity. Or it could mean the motive is something he didn't know about. Something from his past, buried deep."
+
+"Either way, we find out who Steven really is and who hired him."
+
+"Either way," Matt agreed.
+
+They headed inside, planning to order room service and review files. Another night of case work, another step closer to understanding what had happened in that bathroom.
+
+Somewhere in Omaha, Steven was going about his day. Maybe watching news coverage of the investigation. Maybe already planning his next job.
+>NITPICK: This repeats, almost verbatim, a sentence near the end of chapter 1. This level or repetition is bad.
+
+But he'd left something behind—a pattern, a mistake, a connection.
 
 They just had to find it.

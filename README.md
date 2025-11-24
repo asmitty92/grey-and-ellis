@@ -11,7 +11,7 @@ FBI Special Agents Brandon Gray and Matt Ellis investigate crimes that others ca
 ## Series Timeline
 
 - 2011, October: *Cold Impressions*
-- 2013, March: *Book 2*
+- 2013, January/February: *Cold Evidence*
 
 ## Core Elements
 

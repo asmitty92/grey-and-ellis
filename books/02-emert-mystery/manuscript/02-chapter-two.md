@@ -6,7 +6,7 @@ Matt woke at six-thirty to his phone's alarm, the Hampton Inn room dark except f
 
 Now it was time to see where Michael Palmer had died.
 
-Matt showered and dressed—dark slacks, button-down shirt, his service weapon in a belt holster. He packed his notebook, camera, and evidence kit, though Morrison's team had already processed the scene thoroughly. Sometimes you found things on a second look. Sometimes you just needed to understand the space.
+Matt showered and dressed—dark slacks, button-down shirt, his service weapon in a belt holster. He slipped his Leatherman in his back pocket then packed his notebook, camera, and evidence kit. Morrison's team had already processed the scene thoroughly, but sometimes you found things on a second look. Sometimes you just needed to understand the space.
 
 He met Brandon in the lobby at seven-fifteen. Brandon looked tired but focused, carrying his messenger bag and a travel mug of coffee from the hotel's breakfast bar. They grabbed pastries from the continental breakfast—neither of them was particularly hungry, but experience had taught them to eat when they could.
 
@@ -58,7 +58,7 @@ She nodded. "Detective Morrison said you might be able to find something. That y
 
 "We'll do everything we can," Matt said.
 
-"I just want to sell this place and move on." She set down her mug, hands shaking slightly. "But no one wants to buy a house where someone was murdered. And now I'm trapped here with—" She stopped, composing herself. "I'm sorry, I'm rambling. You need to work."
+"I just want to sell this place and move on." She set down her mug, hands shaking slightly. "But no one wants to buy a house where someone was murdered. And now I'm trapped here with—" She stopped, composing herself. "I'm sorry. I'm rambling. You're here to work not listen to my woes."
 
 "It's important to you, and that's valid," Brandon said quietly. "We're sorry this happened in your home."
 
@@ -84,7 +84,7 @@ Matt stepped inside. The bedroom was spacious—king bed against one wall, walk-
 
 Morrison walked to the bathroom doorway. "Based on blood spatter and the ME's analysis, Palmer was standing just inside the bathroom. Steven was behind him and to the left. The angle of the first wound suggests Steven was slightly taller or Palmer was already turning when the knife came up."
 
-Matt stepped into the bathroom. High-end fixtures—marble countertops on the double vanity, large soaking tub with an integrated rainfall showerhead above it, glass partition on one side. The kind of tub-shower combination you'd find in an upscale hotel. Clean now, all evidence of blood and violence scrubbed away by professional cleaners.
+Matt stepped into the bathroom. High-end fixtures—marble countertops on the double vanity, large soaking tub with an integrated rainfall showerhead above it, glass partition on one side. The kind of tub and shower combination you'd find in an upscale hotel. Clean now, all evidence of blood and violence scrubbed away by professional cleaners.
 
 "Walk me through the sequence," Matt said.
 
@@ -168,7 +168,7 @@ Morrison checked her watch. "I'll call her, see if she's available this afternoo
 
 Jennifer Palmer lived in a two-story colonial in Rockbrook Village, a quiet neighborhood about fifteen minutes from downtown. Morrison had called ahead—Mrs. Palmer was home and willing to talk.
 
-They parked on the street at two-fifteen. The house was well-maintained, tasteful landscaping dormant for winter, a Volvo SUV in the driveway. The kind of house that said comfortable without shouting wealthy.
+They parked on the street at two-fifteen after stopping at a small deli for lunch. The house was well-maintained, tasteful landscaping dormant for winter. A Volvo SUV sat in the driveway. The kind of house that said comfortable without shouting wealthy.
 
 Morrison rang the bell. A moment later, the door opened.
 
@@ -176,12 +176,9 @@ Jennifer Palmer was in her early forties, blonde hair pulled back, wearing slack
 
 "Detective Morrison. Please, come in."
 
-They followed her into a living room decorated in neutral tones—beige couch, cream carpet, family photos on the mantle. Matt noted one of the photos: Mike and Jennifer Palmer on what looked like a vacation, palm trees in the background, both of them smiling. A snapshot of a life that no longer existed.
+They followed her into a living room decorated in neutral tones—beige couch, cream carpet, family photos on the mantle. The Palmers' real estate sensibilities were evident even here in their personal space. Matt noted one of the photos: Mike and Jennifer Palmer on what looked like a vacation, palm trees in the background, both of them smiling. A snapshot of a life that no longer existed.
 
-"Can I get you anything? Coffee, water?"
->NITPICK: We ask this coffee, water? question a lot.
-
-"We're fine, thank you," Matt said. "Mrs. Palmer, I'm Special Agent Matt Ellis, this is Special Agent Brandon Gray. We appreciate you taking the time to speak with us."
+"Mrs. Palmer, I'm Special Agent Matt Ellis, this is Special Agent Brandon Gray. We appreciate you taking the time to speak with us."
 
 "Of course." She sat in an armchair across from the couch, hands folded in her lap. "Detective Morrison said you specialize in difficult cases. That you might see something her team missed."
 
@@ -191,7 +188,7 @@ Morrison took a seat near the window, notepad out. Matt and Brandon sat on the c
 
 "Mrs. Palmer, I know you've answered a lot of questions already," Matt began. "Some of what I ask might cover the same ground. I apologize for the repetition."
 
-"It's fine. I want to help. I want—" Her voice caught slightly. "I want to know who did this to Mike."
+"It's fine. I want to help. I want..." Her voice caught slightly. "I want to know who did this to Mike."
 
 Matt opened his notebook. "Tell me about your husband. What was he like?"
 
@@ -215,7 +212,7 @@ Jennifer shook her head. "Nothing serious. Real estate has its share of unhappy 
 
 "What about David Rodriguez? How was Mike's relationship with him?"
 
-"They were friends. Good friends. David's been devastated by this. He was at the funeral, helped me with arrangements, called every day for the first two weeks." Her expression softened. "David's not capable of hurting anyone. I know the spouse and business partner are usually suspects, but—David's a good man."
+"They were friends. Good friends. David's been devastated by this. He was at the funeral, helped me with arrangements, called every day for the first two weeks." Her expression softened. "David's not capable of hurting anyone. I know the spouse and business partner are usually suspects, but David's a good man."
 
 Matt noted her defense of Rodriguez. Not unusual for someone who'd worked closely with both men for a decade. "What about Mike's life outside work? Hobbies, friends, activities?"
 
@@ -223,9 +220,31 @@ Matt noted her defense of Rodriguez. Not unusual for someone who'd worked closel
 
 "Any other interests? Clubs, organizations?"
 
-"He volunteered with Habitat for Humanity a few times a year. We both did. And he was on the board of the Omaha Chamber of Commerce, but that was more of a networking thing." She paused. "Mike wasn't complicated. He worked, played golf, watched football on Sundays. We traveled when we could—usually somewhere warm in February. This year we were planning Costa Rica."
+"He volunteered with Habitat for Humanity a few times a year. We both did. And he was on the board of the Omaha Chamber of Commerce, but that was more of a networking thing." She paused. "Mike wasn't complicated. He worked, played golf, watched football on Sundays. We traveled when we could—usually somewhere warm in February. We were supposed to leave for Costa Rica next week."
 
-Matt let a moment pass. "Mrs. Palmer, I have to ask some more personal questions. I apologize in advance."
+"What about his daily routine?" Matt asked. "Walk me through a typical day."
+
+Jennifer's eyes went distant, remembering. "He was usually up by six and at the office by seven-thirty. He liked to get in before anyone else, review listings, answer emails. Showings usually started around ten and went through the afternoon. He'd be home by six most nights unless he had an evening showing or a closing dinner."
+
+"Did he talk about his clients? Anyone who made him uncomfortable?"
+
+"Sometimes. There's always the occasional difficult buyer—someone who wants to lowball every offer, or wastes your time looking at houses they can't afford. But Mike was patient with them. He said everyone deserves to find the right home, even if they're annoying about it."
+
+Brandon spoke for the first time. "What about before real estate? What did Mike do in his twenties?"
+
+Jennifer looked at him. "He worked at his father's insurance agency for a few years after college. Hated it. That's why he got into real estate—wanted to do something different, build something of his own."
+
+"Where did he go to college?"
+
+"Creighton. Business degree. He was in a fraternity—Sigma Chi, I think. But he wasn't really the fraternity type. He joined for networking, stayed for a year, then focused on his studies."
+
+"Did he stay in touch with anyone from those days? College friends, fraternity brothers?"
+
+"A few. There's a group that gets together once a year for a golf weekend. Tom Braddock, Rich Stein, a couple others. But they're scattered across the country now. I can't imagine any of them—" She shook her head. "These are accountants and lawyers. Normal people."
+
+Matt made a note. College years, fraternity, father's business. Nothing that screamed motive, but they'd check anyway.
+
+"Mrs. Palmer, I have to ask some more personal questions. I apologize in advance."
 
 "I understand."
 
@@ -237,15 +256,11 @@ Jennifer considered. "Mike dated before we met, but nothing serious. There was a
 
 "Not that I know of. Mike wasn't the type to make enemies. He could be stubborn sometimes, but he was fair. People liked him."
 
-Brandon spoke for the first time. "What about before real estate? What did Mike do in his twenties?"
+"What about the insurance agency? Any problems there before he left?"
 
-Jennifer looked at him. "He worked at his father's insurance agency for a few years after college. Hated it. That's why he got into real estate—wanted to do something different, build something of his own."
+"He never mentioned anything. His father passed away about five years ago, and the agency was sold. Mike hadn't been involved with it for years by then."
 
-"Where did he go to college?"
-
-"Creighton. Business degree. He was in a fraternity—Sigma Chi, I think. But he wasn't really the fraternity type. He joined for networking, stayed for a year, then focused on his studies."
-
-Matt made a note. College years, fraternity, father's business. Nothing that screamed motive, but they'd check anyway.
+Matt glanced at Brandon, who gave a slight nod. They were running out of new ground to cover.
 
 "Mrs. Palmer," Matt said, "we're exploring a theory. It's possible—and I want to stress this is just a possibility—that Mike wasn't the intended target. That whoever did this may have mistaken him for someone else."
 
@@ -263,7 +278,11 @@ Jennifer sat very still. Matt watched her process it—the possibility that her 
 
 "It's just a theory," Brandon said quietly. "We're still investigating all possibilities."
 
-Jennifer looked at the photo on the mantle—the vacation shot, the palm trees, the smiles. "Is there anything else?"
+Jennifer looked at the photo on the mantle—the vacation shot, the palm trees, the smiles. "Mike was a good man. He didn't deserve this. Whether someone meant to kill him or not, he didn't deserve it."
+
+"No," Matt agreed. "He didn't."
+
+Jennifer wiped her eyes with the back of her hand. "Is there anything else?"
 
 Matt had more questions, but he could see she was fading. They'd gotten what they could for now. "That's all for today. We may have follow-up questions as the investigation progresses."
 
@@ -289,20 +308,30 @@ Morrison nodded. "I'll start on that list of agents. Cross-reference names, phys
 
 They agreed to touch base over the weekend if anything surfaced. Morrison drove off, and Matt and Brandon got into their rental.
 
-"What do you think?" Matt asked as he started the engine.
+Matt started the engine but didn't pull out. "What do you think?"
 
 Brandon was quiet for a moment. "She's telling the truth. At least, what she believes is the truth. Mike Palmer was exactly who he appeared to be."
 
 "Then we're back to mistaken identity. Or something buried so deep even his wife couldn't see it."
 
-"Or both," Brandon said. "The motive could be from before they met. Something from his twenties that never came up because it was over and done with."
+"Or both. The motive could be from before they met. Something from his twenties that never came up because it was over and done with."
 
-Matt pulled onto the street. "We'll check the fraternity, the insurance agency, the ex-girlfriend in Colorado. See if anything shakes loose."
+Matt pulled onto the street, heading back toward the hotel. They drove in silence for a few blocks before Brandon spoke again.
 
-"And if nothing does?"
+"Do you actually believe the mistaken identity theory?"
 
-"Then we work Morrison's list. Find out who should have been in that bathroom instead of Mike Palmer."
+Matt considered the question carefully. "I think it's worth pursuing. But honestly? Someone as professional as Steven—the mall surveillance evasion, the isolated property, the meticulous staging—that's not someone who makes careless mistakes."
 
-They drove back to the hotel in silence. The case was taking shape—not answers yet, but at least the right questions. Palmer's confusion, the professional execution, the missing motive. Somewhere in the gap between those things was the truth.
+"So you don't believe it."
+
+"I believe Palmer's confusion was real. You said he was looking for context and couldn't find any. That means something. But I think the more likely explanation is that the motive is buried deep—something Palmer himself didn't recognize as a threat. Maybe something from decades ago."
+
+"And if we don't find anything in his past?"
+
+"Then we work Morrison's list harder. But my gut says Palmer was the target. We just haven't found the why yet."
+
+Brandon nodded slowly, staring out the window at Omaha passing by. "Mine too."
+
+They drove the rest of the way in silence. The case was taking shape—not answers yet, but at least the right questions. Palmer's confusion, the professional execution, the missing motive. Somewhere in the gap between those things was the truth.
 
 They just had to find it.

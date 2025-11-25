@@ -36,7 +36,7 @@
   - Deep green eyes
   - Service Weapon: Glock 19
   - Carries a small switchblade - front-opening (OTF), uses thumb slide, snaps/clicks when opening
-    - Guardian Tactical GTX-025, Microtech Hera (or Hera II mini), or similar
+    - Guardian Tactical GTX-025, Microtech Hera (or Hera II mini), Microtech UTX-85, or similar
   - Often forgets to eat when working cases
   - Drinks coffee in mornings/late nights, Coke other times, water when thinking through complex problems
 

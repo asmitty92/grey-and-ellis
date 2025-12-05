@@ -2,11 +2,11 @@
 
 **Saturday, February 2, 2013**
 
-Brandon woke to gray light filtering through the Hampton Inn curtains. His phone said seven-fifteen—later than usual, but he'd been up past two reviewing Morrison's case files again, looking for something they'd missed.
+Brandon woke to gray light filtering through the Hampton Inn curtains. His phone said seven-fifteen. He'd slept later than expected, but he'd been up past two reviewing Morrison's case files again, looking for something they'd missed.
 
-Matt was still asleep in the next room. They'd agreed to work separately over the weekend—Matt would follow up on some local angles, Brandon would dig into Palmer's background. Morrison's list of similar-named agents wouldn't be ready until Monday, which left the mistaken identity theory in limbo for now.
+Matt was still asleep in the next room. They'd agreed to work separately over the weekend. Matt would follow up on some local angles, Brandon would dig into Palmer's background. Morrison's list of agents fitting Palmer's profile wouldn't be ready until Monday, which left the mistaken identity theory in limbo for now.
 
-Brandon showered, dressed, and headed down to the breakfast bar. He filled a travel mug with coffee, grabbed a bagel he wouldn't eat, and returned to his room. His laptop was already open on the desk, tabs from last night still loaded. He settled into the chair and started working.
+Brandon showered, dressed, and headed down to the breakfast bar. He filled a travel mug with coffee, grabbed a bagel he'd end up only nibbling at, and returned to his room. His laptop was already open on the desk, tabs from last night still loaded. He settled into the chair and started working.
 
 First: Creighton University.
 
@@ -38,7 +38,7 @@ A pause. "Jesus. Yeah, of course. Mike—God, I still can't believe it."
 
 "I understand you were friends with Mr. Palmer from college."
 
-"Yeah. We met freshman year at Creighton. Stayed in touch ever since. We had this golf thing every year—bunch of us would get together, play a round, catch up."
+"Yeah. We met freshman year at Creighton. Stayed in touch ever since. We had this golf trip every year—bunch of us would get together, play a couple rounds, catch up."
 
 "When was the last time you saw him?"
 
@@ -94,7 +94,7 @@ Kansas City, 2004. Robert Chen, fifty-three, property manager. Killed in a vacan
 
 Charlotte, 2007. Margaret Riley, forty-six, commercial real estate agent. Found strangled in the basement of a vacant property. Met buyer at the property—no witnesses to the meeting. Buyer described as "distinguished gentleman," possibly blind in one eye (wore dark glasses). Never identified.
 
-Phoenix, 2010. David Ochoa, thirty-eight, residential real estate agent. Found dead in a storage unit he was showing. Blunt force trauma. Buyer used wheelchair, claimed to be relocating from California. Never identified.
+Phoenix, 2010. David Ochoa, thirty-eight, residential real estate agent. Found dead in a townhouse he was showing. Blunt force trauma. Buyer used wheelchair, claimed to be relocating from California. Never identified.
 
 Different methods. Different staging. Different disabilities—all likely faked.
 
@@ -166,104 +166,88 @@ Brandon thanked her and hung up. Another dead end.
 
 He made sandwiches from the hotel breakfast bar leftovers and ate at his desk while reviewing his notes. College friends: nothing. ViCAP connections: nothing. Insurance agency: probably nothing.
 
-The mistaken identity angle was looking more plausible by the hour, even if Matt was skeptical. Morrison's list would give them something concrete to pursue on Monday. Other agents with similar names, similar profiles. Maybe one of them had the enemies Palmer lacked.
+By mid-afternoon, Brandon had exhausted the obvious angles. He leaned back in his chair and stared at the ceiling. The water stain in the corner looked like a hand reaching for something just out of reach.
 
-But something bothered Brandon about the whole theory. Palmer's confusion at the crime scene wasn't just "why is this happening?" It was deeper than that. More personal. Like he was looking for context that should be there and wasn't.
+That's how this case felt. Like something was there, just beyond his grasp, but he couldn't quite reach it.
 
-Brandon pulled up the crime scene photos again. Studied Steven's description from the witnesses. White male, fifties, five-eleven, medium build. Dark coat. Cane with silver handle. Pronounced limp. East Coast accent.
+Palmer's confusion kept echoing in his mind. That profound sense of not understanding. But confusion didn't give Brandon direction. It didn't tell him who, or why, or how to find Steven.
 
-All of it could be faked. Steven could be younger, taller, different build. The accent was easy to fake. The cane and limp were theater. Even the facial scar the witnesses mentioned—makeup, prosthetics.
+Maybe his impression had been too scattered. Maybe he'd misread it entirely. Maybe Palmer's confusion was just the normal response to being murdered—anyone would be confused in that situation.
 
-Who was Steven really?
+Brandon pulled out his phone and scrolled through his notes from the crime scene. He'd written down everything he'd felt, every impression that had come through. Palmer's fear. His pain. His desperate attempt to make sense of what was happening.
 
-And why did he want Mike Palmer dead badly enough to plan this elaborately?
+But that was it. Nothing about the killer. Nothing about motive. Nothing actionable.
 
-Brandon closed his laptop and lay back on the bed. His head ached. The hotel room's ceiling had a water stain in the corner, shaped vaguely like a hand. He stared at it, letting his mind drift.
+In the Carpenter case last year, Brandon's impressions had been clearer. He'd felt Sarah Carpenter's fear of someone she knew. He'd sensed the betrayal, the wrongness of authority turned predator. Those impressions had pointed them toward law enforcement, toward someone in a position of trust.
 
-Palmer's confusion.
+But Palmer? Palmer just felt confused.
 
-That was the key. That was what his impression had given him, clear and undeniable. Palmer had died confused. Not just afraid—confused.
+Which supported the mistaken identity theory, actually. If Palmer died confused because he genuinely had no idea why anyone would want him dead, then maybe it was because no one did want *him* dead. Maybe Steven had killed the wrong man.
 
-Either he was confused because he was innocent and there was no reason for this to happen to him.
-
-Or he was confused because the context was wrong. Because his killer shouldn't have been there, shouldn't have been *him*, shouldn't have been doing *this*.
-
-Brandon sat up. That second option—that felt right. That matched the depth of Palmer's confusion.
-
-Palmer knew something was wrong about the situation, but he couldn't identify what. Like seeing a familiar face in the wrong place. Or hearing words that didn't match the speaker. Or feeling a threat from someone who shouldn't be threatening.
-
-The context was wrong.
-
-Which meant the killer was someone Palmer knew, or had known, in a completely different context. Not as "Steven the buyer from California." As someone else. Someone from Palmer's past.
-
-But who?
-
-Brandon grabbed his notebook and started listing possibilities:
-
-College acquaintance Palmer barely remembered
-Former coworker from insurance agency
-Childhood friend from Omaha
-Distant relative
-Client from Palmer's early real estate days
-Fraternity brother from brief stint in Sigma Chi
-
-Any of these could be Steven's real identity. Any of them could have been in Palmer's life twenty or thirty years ago, then disappeared, then returned in disguise.
-
-But why wait so long? What triggered the murder *now*, in January 2013?
-
-Brandon wrote: TRIGGER = ?
-
-Something had changed. Something had happened recently that made Steven decide Palmer needed to die. After years or decades of doing nothing.
-
-- Palmer discovered something Steven wanted hidden?
-- Steven suffered a loss and blamed Palmer?
-- An old case or crime was being reopened and Palmer was a witness?
-- Steven was dying and wanted revenge before it was too late?
-
-All possible. All worth investigating.
-
-Brandon checked his watch. Four-thirty PM on Sunday. Morrison would have her list ready tomorrow morning. They'd spend Monday checking out other real estate agents, pursuing the mistaken identity theory. But Brandon would also push for deeper investigation into Palmer's past. Because his impression was telling him something, even if he couldn't articulate exactly what.
-
-Palmer had known his killer. Or at least, Palmer had known who his killer really was, underneath the disguise. In those final moments, maybe Palmer had recognized something—a voice, a gesture, a phrase. Something that triggered memory.
-
-But by then it was too late.
-
-Brandon closed his notebook. Tomorrow they'd have direction. Either Morrison's list would yield a viable alternative target, confirming mistaken identity. Or it wouldn't, and they'd shift focus to Palmer's hidden past.
-
-Either way, they'd be moving forward instead of spinning in circles.
-
-His phone buzzed. Text from Matt: *Want to grab dinner?*
+Brandon's phone buzzed. Text from Matt: *Want to grab dinner?*
 
 Brandon typed back: *Yeah. Give me ten minutes.*
 
-He needed to get out of this hotel room. Needed to stop staring at crime scene photos and case files and notes that led nowhere. A few hours of normal conversation over mediocre food sounded perfect.
+He closed his laptop and stood, stretching. Two days of work and he had nothing useful. Tomorrow Morrison would have the list of similar-named agents. Maybe one of them would be the real target. Maybe this whole weekend had been chasing ghosts while the answer was something as simple as a name mix-up.
 
-Tomorrow they'd start fresh. Tomorrow they'd have Morrison's list and new leads to chase. Tomorrow the case would break open.
+Brandon grabbed his jacket and headed for the door. He needed food and conversation that wasn't about the case. His brain needed a break.
 
-Or at least, that's what Brandon hoped.
+---
 
-Because right now, three days into this investigation, they had a professional killer who'd disappeared, a victim with no apparent enemies, and two competing theories that both seemed equally plausible and equally wrong.
+They met at a steakhouse three blocks from the hotel. The place was half-empty on a Sunday evening—just a few other tables occupied by couples and families finishing weekend dinners.
 
-Somewhere in Omaha, Steven was going about his day. Maybe watching the news, checking to see if they'd figured it out yet. Maybe already planning his next move. Maybe long gone, never to be found.
+Matt already had a booth in the back. He was reading something on his phone when Brandon slid in across from him.
 
-But he'd left something behind. Brandon knew it. Not just physical evidence—Morrison's team had found what there was to find. Something psychological. Something in the pattern of behavior, the choice of victim, the method of execution.
+"Any luck?" Matt asked, setting his phone aside.
 
-Steven had planned this murder for a reason. He'd chosen Palmer specifically. He'd waited for the right moment. He'd studied other cases to make his crime look like part of a series.
+"No. You?"
 
-All of that meant something. All of that told a story, if Brandon could just read it correctly.
+"Same. Palmer's neighbors all say he was quiet, kept to himself. No complaints, no problems, nobody remembers anything unusual. The guy lived an invisible life."
 
-His impression at the crime scene had given him one piece: Palmer's confusion. Palmer died not understanding why.
+The waitress came by. They ordered steaks and beer. When she left, Matt leaned back in the booth.
 
-But maybe that was the whole point. Maybe Steven wanted Palmer confused. Wanted him to die the same way Steven had felt when whatever happened between them originally occurred.
+"So we're betting on Morrison's list tomorrow."
 
-If that was true, then this was revenge. Personal, calculated revenge.
+"Looks that way," Brandon said. "Unless you've got another angle."
 
-And revenge required a personal connection.
+"I've been thinking about the timing. Palmer was killed on January ninth. Three weeks ago. What happened in Steven's life around then that made him decide to act?"
 
-Brandon grabbed his jacket and headed for the door. He'd talk this through with Matt over dinner. Matt's logical mind would help organize Brandon's impressions into something actionable.
+"Could be anything. Job loss, divorce, terminal diagnosis. Or maybe he'd been planning it for months and January ninth was just when the pieces fell into place."
 
-Tomorrow they'd know more. Tomorrow they'd have a direction.
+"Maybe." Matt didn't sound convinced. "But professional hits usually have triggers. Something happens that makes the client say 'now.' We just need to figure out what that was."
 
-Tonight, he just needed to stop thinking for a few hours.
+Brandon took a drink of water. "What if there is no client? What if Steven is just someone who kills real estate agents? Those three ViCAP cases—same pattern, different cities, spanning ten years. Maybe we're looking at a serial killer with a very specific victim type."
 
-The case would still be there in the morning.
+"Then why Omaha? Why Palmer specifically? Serial killers usually have a hunting ground. They don't jump from Kansas City to Charlotte to Phoenix to Omaha over ten years."
+
+"True."
+
+The food arrived. They ate in silence for a few minutes. Brandon's mind kept circling back to Palmer's confusion, but he didn't mention it. What was there to say? Palmer was confused, and now they were too.
+
+"You going back to the crime scene?" Matt asked.
+
+Brandon looked up. "What?"
+
+"The Whitmore property. You spent fifteen minutes there on Friday. That's not much time. Maybe you should go back, spend longer. See if anything else comes through."
+
+"Maybe." Brandon had been thinking the same thing, but he wasn't sure it would help. His impressions didn't always get clearer with time. Sometimes they just got louder without being more specific.
+
+"I mean, your impression gave us the mistaken identity theory," Matt said. "Palmer's confusion makes sense if he was the wrong target. So that's something."
+
+Brandon nodded, but he wasn't convinced. The mistaken identity theory felt right logically, but something about it bothered him. Palmer's confusion had felt too deep for simple wrong-place-wrong-time. It had felt personal somehow, even though that made no sense.
+
+But he couldn't explain that to Matt without sounding like he was overthinking his own impressions. So he just said, "Yeah. Morrison's list should tell us if we're on the right track."
+
+They finished dinner and walked back to the hotel. The temperature had dropped into the teens. Their breath fogged in the air. Omaha was quiet on a Sunday night—minimal traffic, a few pedestrians hurrying between warm buildings.
+
+Back in his room, Brandon tried to sleep but couldn't. His mind kept running through the weekend's dead ends. Palmer's college friends remembered nothing useful. The ViCAP cases had no obvious connection. The insurance agency was a long shot that hadn't panned out.
+
+Tomorrow they'd have Morrison's list. Tomorrow they'd interview other agents, look for someone with real enemies. Tomorrow the case might actually move forward.
+
+But tonight, lying in the dark staring at the ceiling, Brandon couldn't shake the feeling that they were missing something. Something important.
+
+Palmer's confusion meant something. It had to. Brandon's impressions weren't perfect, but they weren't usually completely wrong either.
+
+He just couldn't figure out what it meant.
+
+Eventually, exhaustion won. Brandon fell asleep still thinking about Palmer's final moments, still trying to understand what the confusion was trying to tell him.

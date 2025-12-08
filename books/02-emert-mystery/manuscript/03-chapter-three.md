@@ -142,13 +142,14 @@ Or maybe his ability was just hitting its limits. Maybe Palmer's confusion was a
 
 Brandon spent Sunday morning running down another angle: Palmer's father's insurance agency.
 
-Jennifer had mentioned Palmer worked there briefly in his twenties, hated it, left to pursue real estate. It was a long shot—insurance work wasn't exactly the stuff of murder plots—but Brandon was running out of obvious leads.
+Jennifer had mentioned Palmer worked there briefly in his twenties, hated it, left to pursue real estate. It was a long shot—insurance work wasn't exactly the stuff of murder and intrigue—but Brandon was running out of obvious leads.
 
 He found the agency online. Palmer Insurance Services. Sold five years ago when Palmer's father died. Now operating under a different name, different ownership. The original business had been small—maybe a dozen employees, serving local clients in the Omaha area.
 
 Brandon called the current owner, identified himself, asked if they had any records from the Palmer era.
 
 "Some," the woman said. Her name was Carol Hendricks. She sounded tired. "We kept client files for seven years after the sale per the contract. After that, we shredded most of it. Why?"
+>NITPICK: An earlier paragraph says sale happened 5 years ago, but she says they destroyed files after keeping them for 7 years.
 
 "I'm investigating the murder of Michael Palmer. He worked at the agency in the early nineties."
 
@@ -157,6 +158,7 @@ Brandon called the current owner, identified himself, asked if they had any reco
 "Did Mr. Palmer's father have any disputes with clients? Denied claims, legal issues, anything that might have created lasting resentment?"
 
 Hendricks was quiet for a moment. "Look, I'm not going to speak ill of the dead, but insurance agencies in the nineties weren't always run by the books. We found some questionable documentation when we did our due diligence. Nothing prosecutable, just... creative interpretations of coverage. But that was before my time. And it was John Palmer's agency, not Mike's. Mike only worked there a couple years."
+>NITPICK: Would the woman answering the phone know Mike's work history there?
 
 "Do you remember any specific problems?"
 
@@ -164,9 +166,9 @@ Hendricks was quiet for a moment. "Look, I'm not going to speak ill of the dead,
 
 Brandon thanked her and hung up. Another dead end.
 
-He made sandwiches from the hotel breakfast bar leftovers and ate at his desk while reviewing his notes. College friends: nothing. ViCAP connections: nothing. Insurance agency: probably nothing.
+He made a sandwich from the hotel breakfast bar leftovers and ate at his desk while reviewing his notes. College friends: nothing. ViCAP connections: nothing. Insurance agency: probably nothing.
 
-By mid-afternoon, Brandon had exhausted the obvious angles. He leaned back in his chair and stared at the ceiling. The water stain in the corner looked like a hand reaching for something just out of reach.
+By mid-afternoon, Brandon had exhausted the obvious angles. He leaned back in his chair and stared at the ceiling. A water stain in the corner looked like a hand reaching for something just out of reach.
 
 That's how this case felt. Like something was there, just beyond his grasp, but he couldn't quite reach it.
 
@@ -211,10 +213,12 @@ The waitress came by. They ordered steaks and beer. When she left, Matt leaned b
 "Looks that way," Brandon said. "Unless you've got another angle."
 
 "I've been thinking about the timing. Palmer was killed on January ninth. Three weeks ago. What happened in Steven's life around then that made him decide to act?"
+>NITPICK: They currently think Steven's a professional. Why would they be wondering what happened in his life.
 
 "Could be anything. Job loss, divorce, terminal diagnosis. Or maybe he'd been planning it for months and January ninth was just when the pieces fell into place."
 
 "Maybe." Matt didn't sound convinced. "But professional hits usually have triggers. Something happens that makes the client say 'now.' We just need to figure out what that was."
+>NITPICK: But that "trigger" wouldn't be in Steven's life as Matt said a couple of paragraphs back.
 
 Brandon took a drink of water. "What if there is no client? What if Steven is just someone who kills real estate agents? Those three ViCAP cases—same pattern, different cities, spanning ten years. Maybe we're looking at a serial killer with a very specific victim type."
 

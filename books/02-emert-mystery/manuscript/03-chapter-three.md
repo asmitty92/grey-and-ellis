@@ -148,8 +148,7 @@ He found the agency online. Palmer Insurance Services. Sold five years ago when 
 
 Brandon called the current owner, identified himself, asked if they had any records from the Palmer era.
 
-"Some," the woman said. Her name was Carol Hendricks. She sounded tired. "We kept client files for seven years after the sale per the contract. After that, we shredded most of it. Why?"
->NITPICK: An earlier paragraph says sale happened 5 years ago, but she says they destroyed files after keeping them for 7 years.
+"Not much," the woman said. Her name was Carol Hendricks. She sounded tired. "We only kept the client files that were still active when we took over. Everything else got shredded per the purchase agreement. Why?"
 
 "I'm investigating the murder of Michael Palmer. He worked at the agency in the early nineties."
 
@@ -157,8 +156,7 @@ Brandon called the current owner, identified himself, asked if they had any reco
 
 "Did Mr. Palmer's father have any disputes with clients? Denied claims, legal issues, anything that might have created lasting resentment?"
 
-Hendricks was quiet for a moment. "Look, I'm not going to speak ill of the dead, but insurance agencies in the nineties weren't always run by the books. We found some questionable documentation when we did our due diligence. Nothing prosecutable, just... creative interpretations of coverage. But that was before my time. And it was John Palmer's agency, not Mike's. Mike only worked there a couple years."
->NITPICK: Would the woman answering the phone know Mike's work history there?
+Hendricks was quiet for a moment. "Look, I'm not going to speak ill of the dead, but insurance agencies in the nineties weren't always run by the books. We found some questionable documentation when we did our due diligence. Nothing prosecutable, just... creative interpretations of coverage. But that was John Palmer's operation. I never met anyone who worked there back then."
 
 "Do you remember any specific problems?"
 
@@ -212,13 +210,11 @@ The waitress came by. They ordered steaks and beer. When she left, Matt leaned b
 
 "Looks that way," Brandon said. "Unless you've got another angle."
 
-"I've been thinking about the timing. Palmer was killed on January ninth. Three weeks ago. What happened in Steven's life around then that made him decide to act?"
->NITPICK: They currently think Steven's a professional. Why would they be wondering what happened in his life.
+"I've been thinking about the timing. Palmer was killed on January ninth. Three weeks ago. If Steven is a professional, someone hired him. Something happened that made the client decide Palmer needed to die *now*."
 
-"Could be anything. Job loss, divorce, terminal diagnosis. Or maybe he'd been planning it for months and January ninth was just when the pieces fell into place."
+"Could be anything," Brandon said. "Business deal gone bad, insurance payout deadline, Palmer about to testify about something. Or maybe the client's been planning it for months and January was just when Steven had an opening."
 
-"Maybe." Matt didn't sound convinced. "But professional hits usually have triggers. Something happens that makes the client say 'now.' We just need to figure out what that was."
->NITPICK: But that "trigger" wouldn't be in Steven's life as Matt said a couple of paragraphs back.
+"Maybe." Matt didn't sound convinced. "But we need to figure out what triggered the hit. What changed in Palmer's life recently that made him a target?"
 
 Brandon took a drink of water. "What if there is no client? What if Steven is just someone who kills real estate agents? Those three ViCAP cases—same pattern, different cities, spanning ten years. Maybe we're looking at a serial killer with a very specific victim type."
 

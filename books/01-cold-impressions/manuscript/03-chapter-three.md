@@ -25,7 +25,7 @@ Matt relaxed slightly. The rain came harder. He flicked on the wipers. The rhyth
 
 Matt had read Walton's statement three times. Thirty-one years old, worked construction, had stopped for cigarettes. Saw Sarah's purse by the payphone, called 911. Told deputies he didn't see or hear anything. "You think he's hiding something?"
 
-"I think he saw more than he told them. Maybe not much more, but something. Sometimes you just need to ask the right questions."
+"Not hiding, no. But, I think he saw more than he told them. Maybe not much more, but something. When you grow up in a small town, there are things about your surroundings that you take for granted. My older brother witnessed something once, and it took multiple police interviews to suss out all the relevant details. Sometimes you just need to ask the right questions."
 
 The GPS announced their turn. Matt slowed and turned onto County Road 275. The pavement was cracked and patched, weeds growing through the edges. Fields stretched out on both sides—corn stubble from the fall harvest, waiting for winter.
 

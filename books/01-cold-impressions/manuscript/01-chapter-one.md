@@ -91,7 +91,7 @@ Matt leaned forward and rested his elbows on the table. His hands slowly massage
 
 "Possibly."
 
-Dottie brought their food. The pork chop was thick cut and not overdone, with real mashed potatoes and green beans that still had some snap to them. Brandon's burger was thick and hand-formed, cheese melted perfectly over the edges. The kind of food that justified a small town diner's existence.
+Dottie brought their food. The pork chop was thick cut and not overdone, with real mashed potatoes and green beans that still had some snap to them. Brandon's burger was thick and hand-formed, cheese melted perfectly over the edges. His fries were still shiny with oil from the fryer.
 
 "So where do we start?" Matt asked. "Coworkers at the library? Regular customers? Ex-boyfriends?"
 
@@ -149,7 +149,7 @@ Matt watched his partner stare at nothing. In three years, he'd rarely seen Bran
 
 Brandon nodded but didn't respond.
 
-Dottie brought the check. Matt paid cash and left a twenty percent tip. Outside, the temperature had dropped into the forties. Matt's breath fogged in the air. Brandon stood by the car for a moment, looking back toward the diner like he'd forgotten something.
+Dottie brought the check. Matt paid cash and left a generous tip. Outside, the temperature had dropped into the forties. Matt's breath fogged in the air. Brandon stood by the car for a moment, looking back toward the diner like he'd forgotten something.
 
 "You okay?" Matt asked.
 

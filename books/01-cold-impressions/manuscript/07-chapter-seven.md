@@ -113,7 +113,11 @@ Dale shook his head. "I can't say. Not here."
 
 Matt exchanged a glance with Brandon. Saw that Brandon had also recognized the fear in Dale's voice.
 
-"All right," Matt said carefully. "Tell us what happened after you brought her inside."
+"All right," Matt said carefully. "You couldn't call 911, but what about dropping her off anonymously at the emergency room?"
+
+"This is a small town in a small county," Dale said. "Nothing is really anonymous in a community like this. Someone would know I'd been the one to drop her off."
+
+Matt thought this over for a moment before replying. "Okay, tell us what happened once you got her inside your house."
 
 Dale took a shaky breath. "I put her in the spare bedroom. Called someone I know, a nurse. I knew she wouldn't ask questions. She came, examined her. Said she'd most likely been drugged with something strong, probably a benzodiazepine. She told me to keep her comfortable, said she'd come around in a few hours."
 
@@ -167,7 +171,7 @@ Matt leaned back in his chair. "Let me see if I understand this correctly. Someo
 
 Hicks cleared his throat. "My client is willing to continue cooperating, but he has legitimate concerns about his safety. Perhaps if we could arrange for him to be held somewhere other than the county jail—"
 
-"He's afraid of someone in local law enforcement," Brandon said. It wasn't a question.
+"He's afraid of someone in local law enforcement," Brandon said almost to himself.
 
 The room went silent. Dale didn't confirm it, but he didn't deny it either.
 
@@ -231,6 +235,4 @@ Brandon didn't respond, but Matt saw the slight nod. They were both thinking the
 
 Whoever killed Sarah Carpenter wasn't a stranger to Dale Kovacs.
 
-They were someone he knew.
-
-Someone he'd maybe even loved.
+They were someone he knew and possibly cared about.

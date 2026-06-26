@@ -21,7 +21,7 @@ Matt had learned Brandon's patterns over the past three years. Coffee first thin
 
 Brandon asked for a burger, no pickles. Dottie collected the menus and shuffled back toward the kitchen. 
 
-Matt's fingers tapped out a steady rhythm on the table top in the silence that followed. Waiting to see if Brandon had anything to say.
+Matt's fingers tapped out a steady rhythm on the table-top in the silence that followed. Waiting to see if Brandon had anything to say.
 
 "So," Matt said when she was out of earshot. "She knew him."
 
@@ -33,7 +33,7 @@ Brandon nodded. He picked up a sugar packet from the ceramic holder and turned i
 
 Matt pulled out his phone and opened the case file. He'd downloaded everything the sheriff's office had sent over—witness statements, security footage stills, the initial investigation reports. "Kowalski said the camera caught her on the phone for about three minutes before the truck pulled in. Who was she calling?"
 
-"Her mother. Telling her the car broke down and she'd be late getting home." Brandon paused. "AAA said forty-five minutes to an hour to get someone out. She wasn't worried. Just annoyed."
+"Her mother. Telling her the car broke down, and she'd be late getting home." Brandon paused. "AAA said forty-five minutes to an hour to get someone out. She wasn't worried. Just annoyed."
 
 Matt scrolled through the file. The phone records confirmed it—one call to AAA at 8:12 PM, lasted two minutes. Second call to a number registered to Linda Carpenter at 8:24 PM, lasted three minutes. Third call placed at 8:27 PM to a number that belonged to someone named Jessica Holt.
 
@@ -57,9 +57,9 @@ Dottie returned with their drinks. Matt thanked her. Brandon ignored his Coke.
 
 Matt looked up. "You got that from the security footage?"
 
-"Partial. The way he got out of the truck, walked around to the passenger side. Confident. Steady on his feet. Not somoene who's been slowed down by age."
+"Partial. The way he got out of the truck, walked around to the passenger side. Confident. Steady on his feet. Not someone who's been slowed down by age."
 
-Matt had watched the same footage half a dozen times. The angle didn't quite catch the payphone, most if the action had take place right at the periphery. He could see movement, shadows, but nothing that told him about the suspect's age or gait. Brandon always saw more. Or claimed to.
+Matt had watched the same footage half a dozen times. The angle didn't quite catch the payphone, most of the action had take place right at the periphery. He could see movement, shadows, but nothing that told him about the suspect's age or gait. Brandon always saw more. Or claimed to.
 
 "What else?" Matt asked.
 
@@ -125,7 +125,7 @@ Matt did the math. Twenty-one years put it at 1990. His Air Force years, before 
 
 There was something else there. Matt could see it in the way Brandon's jaw tightened, the way he wouldn't quite meet Matt's eyes. Pushing didn't usually work with Gray, but he let his curiousity get the better of him.
 
-"Were there any witnesses other than the boyfriend?" Matt asked casually. Are they definitely sure he wasn't involved."
+"Were there any witnesses other than the boyfriend?" Matt asked casually. Are they definitely sure he wasn't involved?"
 
 Matt saw anger flare suddenly in Brandon's deep green eyes.
 

@@ -225,7 +225,7 @@ Neither of them spoke until they were back on Route 39, heading toward Thorndale
 
 "Yeah." Brandon was staring out the window.
 
-"No one ever even figured out her card had been tampered with."
+"No one ever even figured out her car had been tampered with."
 
 "No."
 

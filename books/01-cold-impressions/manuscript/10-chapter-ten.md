@@ -89,7 +89,7 @@ Matt closed the door and sat down across from Kowalski. Brandon took the chair b
 
 Kowalski smiled. Not nervous. Confident. "I don't think that's necessary. I didn't do anything wrong. I'm happy to answer your questions."
 
-Matt slid a form across the table. "P sign this Miranda waiver stating you are waiving your right to an attorney at this time."
+Matt slid a form across the table. "Please sign this Miranda waiver stating you are waiving your right to an attorney at this time."
 
 Kowalski picked up the pen Matt handed him and scribbled his signature with one fluid stroke. He handed the pen back and placed his hands flat on the table again.
 

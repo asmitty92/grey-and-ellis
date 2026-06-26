@@ -3,7 +3,7 @@
 
 Matt had been taking notes when Brandon said it. He'd been writing down the timeline—Marcus taking Sarah to the barn, drugging her, Dale finding her—when his partner's voice went quiet and said something that made no sense.
 
-"She asked you why. Not 'why are you doing this.' Just 'why.' One word. That's all she said before you put your hands on her throat."
+"She asked you why. Not 'why are you doing this?' Just 'why.' One word. That's all she said before you put your hands on her throat."
 
 Matt's pen stopped moving.
 
@@ -87,7 +87,7 @@ Matt knew they could explain to him that Dale was only at the library so much be
 
 "So you took her," Matt said.
 
-"I saved her." Kowalski's voice was firm. "I saw her car at the library that day. I was on patrol in Blackburn. I knew she'd be finishing her shift soon. So I made sure her car adolescentwouldn't start. Made sure she'd be stranded."
+"I saved her." Kowalski's voice was firm. "I saw her car at the library that day. I was on patrol in Blackburn. I knew she'd be finishing her shift soon. So I made sure her car wouldn't start. Made sure she'd be stranded."
 
 "And you waited at the Crossroads," Brandon said.
 

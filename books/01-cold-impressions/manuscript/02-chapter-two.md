@@ -53,7 +53,7 @@ Matt sat down across from him, surveying the spread of files. "Learn anything ne
 
 "Which made her easy to watch."
 
-"And easy to intercept." Brandon gathered the files into a stack, his system disrupted now that Matt was there. "If he tampered with her car, he did it while she was at the library. That's a narrow window. Her shift ended at eight. She left by eight-oh-five according to her coworker. Car was parked in the employee lot behind the building. He would've have had to do it after 7pm when early staff ended their day. He wouldn't have wanted to be seen."
+"And easy to intercept." Brandon gathered the files into a stack, his system disrupted now that Matt was there. "If he tampered with her car, he did it while she was at the library. That's a narrow window. Her shift ended at eight. She left by eight-oh-five according to her coworker. Car was parked in the employee lot behind the building. He would've had to do it after 7pm when early staff ended their day. He wouldn't have wanted to be seen."
 
 "So he knew the library's layout. Knew where employees parked."
 

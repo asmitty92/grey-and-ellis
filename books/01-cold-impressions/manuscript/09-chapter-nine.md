@@ -106,13 +106,13 @@ Dale’s face crumpled. “I suspected. I did see him at the library a couple ti
 
 “He died when Marcus was ten. Jennifer said Marcus took it hard. Stopped talking for months. Wouldn’t go to school. She had to get him counseling just to function. When I met Marcus two years later, he seemed okay on the surface. But there was something—” Dale searched for the words. “Something frozen about him. Like part of him was still that little boy who’d lost his dad.”
 
-“Disrupted Attachment,” Brandon said quietly.
+"Developmental fixation,” Brandon said quietly.
 
-Matt looked at his partner. Brandon’s expression was carefully neutral, but Matt recognized that look. Brandon was connecting something to his own experience. Maybe to Missouri.
+Matt looked at his partner. Brandon’s expression was carefully neutral, but Matt recognized that look. Brandon was connecting something to his own experience. Maybe to Missouri. To his brother.
 
 “What do you mean?” Dale asked.
 
-“Sometimes trauma at a critical developmental age can arrest emotional growth,” Brandon explained. “Marcus lost his father at ten. That’s when children are forming their understanding of relationships, attachment, loss. If he never processed that trauma properly, part of him might have remained emotionally ten years old even as he physically aged. He'd have been clingy and controlling in future attachments and prone to rage when rejected.”
+“Sometimes trauma at a critical developmental age can arrest emotional growth,” Brandon explained. “Marcus lost his father at ten. That’s when children are forming their understanding of relationships, attachment, and loss. If he never processed that trauma properly, part of him might have remained emotionally ten years old even as he physically aged. He'd have been clingy and controlling in future attachments and prone to rage when rejected.”
 
 “That would explain why he related better to younger children,” Matt added. “Why his fixations were on girls significantly younger than him. He was emotionally closer to their age than to his peers.”
 
@@ -172,7 +172,7 @@ Brandon and Matt turned to leave.
 
 “We’ll be careful,” Matt said.
 
-Outside, walking back to the car, Matt turned to Brandon. “Disrupted attachment. That’s what you picked up on in Missouri, isn’t it?”
+Outside, walking back to the car, Matt turned to Brandon. “Developmental fixation. That’s what you picked up on in Missouri, isn’t it?”
 
 Brandon didn’t answer immediately. When he did, his voice was quiet. “Trauma changes people. Freezes them in place sometimes. They keep living, keep aging, but part of them stays in that moment. The moment everything broke.”
 
